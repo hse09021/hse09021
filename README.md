@@ -1,4 +1,5 @@
-### Hi there 👋
+### My Status :speaker:
+ > **Seeking the better future.**
 
 ## Work Experience
   * **2020.10.29. ~ Syncorbis Inc. as SW Engineer**
