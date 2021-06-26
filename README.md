@@ -21,12 +21,12 @@
     * Shellscript
     
   ### Reallife Languages 💬
-    * Native in Korean 🇰🇷
-    * Fluent in English 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-    * Little in Spanish 🇪🇸
-    * Little in Chinese 🇨🇳
-    * Little in Japanese 🇯🇵
-    * Can speak some words in Russian 🇷🇺
+    * Native in Korean
+    * Fluent in English
+    * Little in Spanish
+    * Little in Chinese
+    * Little in Japanese
+    * Can speak some words in Russian
 
   ### Available Program 💻
     * Austodesk Fusion 360
