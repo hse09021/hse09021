@@ -17,6 +17,7 @@
     * Python
     * SQL
     * HTML/CSS
+    * Shellscript
     
   ### Reallife Languages
     * Native in Korean
