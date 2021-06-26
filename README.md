@@ -31,6 +31,7 @@
 ## Natural Science Career :microscope:
   * **Excellence Award in ICGSK2020-APCC7 E-Poster Session.\
     Research Activity: <DNA Music, Composing Biological Music via AI Programming>**
+  * **Participated in KAIST YOUTH Scientist Camp in 2nd Semester of 2019.**
   * **Gave a presentation in ICGSK2019 Next Generation Session.\
     Research Activity: \<Musicalization of DNA Using Python\>**
   * **Gave a presentation in IJCGM2018 Junior High & High School Scientist Workshop Session.\
