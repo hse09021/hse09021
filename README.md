@@ -1,18 +1,18 @@
-### My Status :speaker:
+### My Status 📢
  > **Seeking the better future.**
 
-## Work Experience
+## Work Experience 👓
   * **2020.10.29. ~ Syncorbis Inc. as SW Engineer**
 
-## Education and Training :mortar_board:
+## Education and Training 🎓
   * **Studying in Soongsil University of AI Convergence.**
   * **Completed 2021 iGEM VCL.**
   * **Graduated SW Education Course in Technology Convergence School of Ilsan Daejin High School in 2021.**
   * **Completed IoT(Internet of Things) Course in KAIST Cyber Education Course for Gifted Student in 2nd Semester of 2019.**
   * **2013.12. - 2016.08. Studied in Oklahoma, USA for 2 years and 8 months.**
 
-## Available Languages :a:
-   ### Computer Languages :computer:
+## Abilties ❗
+   ### Computer Languages 💻
     * C
     * C#
     * Python
@@ -20,15 +20,24 @@
     * HTML/CSS
     * Shellscript
     
-  ### Reallife Languages :speech_balloon:
-    * Native in Korean
-    * Fluent in English
-    * Little in Spanish
-    * Little in Chinese
-    * Little in Japanese
-    * Can speak some words in Russian
-    
-## Natural Science Career :microscope:
+  ### Reallife Languages 💬
+    * Native in Korean 🇰🇷
+    * Fluent in English 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+    * Little in Spanish 🇪🇸
+    * Little in Chinese 🇨🇳
+    * Little in Japanese 🇯🇵
+    * Can speak some words in Russian 🇷🇺
+
+  ### Available Program 💻
+    * Austodesk Fusion 360
+    * Adobe Premiere Pro
+    * Vegas Pro
+    * Adobe Photoshop
+    * Adobe Illustrator
+    * Clip Studio
+    * MS Office
+
+## Natural Science Career 🔬
   * **Excellence Award in ICGSK2020-APCC7 E-Poster Session.\
     Research Activity: <DNA Music, Composing Biological Music via AI Programming>**
   * **Participated in KAIST YOUTH Scientist Camp in 2nd Semester of 2019.**
@@ -40,7 +49,7 @@
   * **Participated in 36th Gyeonggi-do Youth Science Exploration Contest (Convergence Science).**
   * **Participated in 36th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Convergence Science).**
 
-## Hardware/Software Career :wrench:
+## Hardware/Software Career 🛠️
   * **Gave a presentation in 2020 KSAS Fall Conference Organized Session.\
     Research Activity: \<Design of Cansat with Landing Direction Control System\>**
   * **President of Korea Aerospace Research Institute Award in 2020 CanSat Competition High School Session.**
@@ -58,7 +67,7 @@
   * **2nd Place 2015-2016 TSA Oklahoma State Conference VEX IQ Programming Skill Challenge.**
   * **2nd Place in 2015-2016 TSA Oklahoma State Conference System Control Technology.**
   
-## Invention & Startup Career :bulb:
+## Invention & Startup Career 💡
   * **Selected in 2021 Soongsil University Beginning Startup Club.**
   * **Selected in 1st 10X Program Future Group Track.**
   * **Selected in 2021 SW Maestro Sustainable Growth Support Project.**
