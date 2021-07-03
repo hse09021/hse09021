@@ -68,6 +68,7 @@
   * **2nd Place in 2015-2016 TSA Oklahoma State Conference System Control Technology.**
   
 ## Invention & Startup Career 💡
+  * **2021 Global Venture School & Hackathon Competition Excellence Award**
   * **Selected in 2021 Soongsil University Beginning Startup Club.**
   * **Selected in 1st 10X Program Future Group Track.**
   * **Selected in 2021 SW Maestro Sustainable Growth Support Project.**
