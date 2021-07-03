@@ -54,7 +54,7 @@
     Research Activity: \<Design of Cansat with Landing Direction Control System\>**
   * **President of Korea Aerospace Research Institute Award in 2020 CanSat Competition High School Session.**
   * **Participated in 2020 IBM Call for Code Korea Hackathon.**
-  * **Grand Prize in 2019 Korea University Secondary School SW Competition.**
+  * **Grand Prize (1st Place) in 2019 Korea University Secondary School SW Competition.**
   * **Member of National Assembly Award in 10th Creative Maker’s Field 3D Printing & SW Application Ideathon of The Age of 4th Industrial Revolution.**
   * **Bronze Medal in 4th National High School Software Club Competition in KAIST.**
   * **Top 30 Finalist in 1st Korea Code Fair SW Contest.**
@@ -62,13 +62,15 @@
   * **President of Korea 3D Printing Service Association Award in 9th Creative Maker’s Field SW Application Idea Competition of The Age of 4th Industrial Revolution.**
   * **Think Award (3rd Place) in World Robot Olympiad 2019 Korea Competition High School Creative Session.**
   * **President of Korea 3D Printing Service Association Award in 8th Creative Maker’s Field SW Application Competition of The Age of 4th Industrial Revolution.**
+  * **Participated in 2018 Maker Project Club Supporting Project**
+  * **Encouragement Award (4th Place) in 2018 Highschool SW Hackathon in Sejong University**
   * **Participated in 35th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Mechenical Engineering).**
   * **1st Place 2015-2016 TSA Oklahoma State Conference VEX IQ Driving Skill Challenge.**
   * **2nd Place 2015-2016 TSA Oklahoma State Conference VEX IQ Programming Skill Challenge.**
   * **2nd Place in 2015-2016 TSA Oklahoma State Conference System Control Technology.**
   
 ## Invention & Startup Career 💡
-  * **Excellence Award in 2021 Soongsil University Global Venture School & Hackathon Competition**
+  * **Excellence Award (3rd Place) in 2021 Global Venture School & Hackathon Competition in Soongsil University**
   * **Selected in 2021 Soongsil University Beginning Startup Club.**
   * **Selected in 1st 10X Program Future Group Track.**
   * **Selected in 2021 SW Maestro Sustainable Growth Support Project.**
