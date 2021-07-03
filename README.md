@@ -62,7 +62,8 @@
   * **President of Korea 3D Printing Service Association Award in 9th Creative Maker’s Field SW Application Idea Competition of The Age of 4th Industrial Revolution.**
   * **Think Award (3rd Place) in World Robot Olympiad 2019 Korea Competition High School Creative Session.**
   * **President of Korea 3D Printing Service Association Award in 8th Creative Maker’s Field SW Application Competition of The Age of 4th Industrial Revolution.**
-  * **Participated in 2018 Maker Project Club Supporting Project**
+  * **Participated in 2018 Maker Project Club Supporting Project\
+    Research Activity: \<Patient-Tailored Recycled Fidget Toys for Stroke Patients\>**
   * **Encouragement Award (4th Place) in 2018 Highschool SW Hackathon in Sejong University**
   * **Participated in 35th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Mechenical Engineering).**
   * **1st Place 2015-2016 TSA Oklahoma State Conference VEX IQ Driving Skill Challenge.**
