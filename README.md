@@ -30,10 +30,10 @@
 
   ### Available Program 💻
     * Austodesk Fusion 360
-    * Adobe Premiere Pro
-    * Vegas Pro
     * Adobe Photoshop
     * Adobe Illustrator
+    * Adobe Premiere Pro
+    * Vegas Pro
     * Clip Studio
     * MS Office
 
