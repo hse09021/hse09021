@@ -58,6 +58,7 @@
   * **Member of National Assembly Award in 10th Creative Maker’s Field 3D Printing & SW Application Ideathon of The Age of 4th Industrial Revolution.**
   * **Bronze Medal in 4th National High School Software Club Competition in KAIST.**
   * **Top 30 Finalist in 1st Korea Code Fair SW Contest.**
+  * **Top 16 Finalist in 5th Samsung Junior SW Cup.**
   * **President of Science, ICT, Broadcasting, and Communications Committee Award in 9th Creative Maker’s Field SW Application Idea Competition of The Age of 4th Industrial Revolution.**
   * **President of Korea 3D Printing Service Association Award in 9th Creative Maker’s Field SW Application Idea Competition of The Age of 4th Industrial Revolution.**
   * **Think Award (3rd Place) in World Robot Olympiad 2019 Korea Competition High School Creative Session.**
