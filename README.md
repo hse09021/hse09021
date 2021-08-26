@@ -38,7 +38,7 @@
     * MS Office
 
 ## Natural Science Career 🔬
-  * **Excellence Award in ICGSK2020-APCC7 E-Poster Session.\
+  * **Best Poster Award in ICGSK2020-APCC7 E-Poster Session.\
     Research Activity: <DNA Music, Composing Biological Music via AI Programming>**
   * **Participated in KAIST YOUTH Scientist Camp in 2nd Semester of 2019.**
   * **Gave a presentation in ICGSK2019 Next Generation Session.\
@@ -72,10 +72,14 @@
   * **2nd Place in 2015-2016 TSA Oklahoma State Conference System Control Technology.**
   
 ## Invention & Startup Career 💡
+  * **President of the Korea Association of Industrial-Academic Associations Award in 2021 Venture Start-up Competition in Seoul National University of Science and Technology**
+  * **Selected in Korea University 10th Startup Campus Town Entry Competition**
+  * **Selected in 2020 Korea University X-Garage Maintenance Program**
   * **Excellence Award (3rd Place) in 2021 Global Venture School & Hackathon Competition in Soongsil University**
-  * **Selected in 2021 Soongsil University Beginning Startup Club.**
+  * **Selected in 2021 Soongsil University Pre-Startup Team.**
   * **Selected in 1st 10X Program Future Group Track.**
   * **Selected in 2021 SW Maestro Sustainable Growth Support Project.**
+  * **1st Place in 2020 Korea University X-Garage Demo Day**
   * **Patent "Fire Guidance System" (Application No. 10-2020-0032040)**
   * **2015-2016 TSA Oklahoma State Conference Promotional Marketing 2nd**
 
