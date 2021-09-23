@@ -72,7 +72,7 @@
   * **2nd Place in 2015-2016 TSA Oklahoma State Conference System Control Technology.**
   
 ## Invention & Startup Career 💡
-  * **President of the Korea Association of Industrial-Academic Associations Award in 2021 Venture Start-up Competition in Seoul National University of Science and Technology**
+  * **President of Korea Association of Industry, Academy and Research Institute Award in 2021 Venture Start-up Competition in Seoul National University of Science and Technology**
   * **Selected in Korea University 10th Startup Campus Town Entry Competition**
   * **Selected in 2020 Korea University X-Garage Maintenance Program**
   * **Excellence Award (3rd Place) in 2021 Global Venture School & Hackathon Competition in Soongsil University**
