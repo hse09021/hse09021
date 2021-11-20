@@ -33,6 +33,8 @@
     * Adobe Photoshop
     * Adobe Illustrator
     * Adobe Premiere Pro
+    * Adobe XD
+    * Figma
     * Vegas Pro
     * Clip Studio
     * MS Office
