@@ -52,7 +52,7 @@
   * **Participated in 36th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Convergence Science).**
 
 ## Hardware/Software Career 🛠️
-  * **Excellence Award (2nd Place) in 2021 Soongsil University AI Convergence Competition.**
+  * **Excellence Award (3rd Place) in 2021 Soongsil University AI Convergence Competition.**
   * **President of Korea Agency of Education, Promotion & Information Service in Food, Agriculture, Forestry & Fisheries Award (2nd Place) in Smart Farm & AI Chellange.**
   * **Gave a presentation in 2020 KSAS Fall Conference Organized Session.\
     Research Activity: \<Design of Cansat with Landing Direction Control System\>**
