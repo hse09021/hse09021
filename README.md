@@ -21,7 +21,7 @@
     * Markdown
     * Shellscript
     * Dart (Flutter)
-    * ini Programming for Rainmeter
+    * .ini File Programming for Rainmeter
     
   ### Reallife Languages 💬
     * Native in Korean
