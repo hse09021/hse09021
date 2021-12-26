@@ -14,8 +14,8 @@
 
 ## Abilties ❗
    ### Computer Languages 💻
-    * [C](https://www.ibm.com/docs/en/i/7.3?topic=languages-c-c)
-    * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) ([Unity](https://docs.unity3d.com/Manual/index.html), WinForm, WinUI3)
+    * ![C](https://www.ibm.com/docs/en/i/7.3?topic=languages-c-c)
+    * ![C#](https://docs.microsoft.com/en-us/dotnet/csharp/) (![Unity](https://docs.unity3d.com/Manual/index.html), WinForm, WinUI3)
     * Python (BS4, Selenium, Numpy, Pandas, MatPlotlib, Biopython, PyQT)
     * SQL (MySQL)
     * HTML/CSS
