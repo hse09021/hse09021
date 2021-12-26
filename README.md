@@ -68,6 +68,7 @@
     * Clip Studio
     * MS Office
     * Ultimakr Cura
+    * Rainmeter
     * Arduino
     * Raspberry Pi OS (Raspbian)
     * Linux
