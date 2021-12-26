@@ -4,17 +4,28 @@
 ## Work Experience 👓
   * **2020.10.29. ~ Syncorbis Inc. as SW Engineer**
 
+## Other Career Experience 🔍
+  * **2021.11.27. ~  Soongsil University of AI Convergence as Student President**
+  * **2019.08.24. ~ 2021.02.28. Ilsan Daejin High School 3-7 as Class President**
+  * **2017.02.18. ~ 2019.04.07. Goyang Youth Orchestra as 2nd Violinist**
+  * **2019.03.04. ~ 2020.03.01. 현세 Robotics Club as Vice President**
+  * **2015.09.22. ~ 2016.05.18. Cheyenne Middle School TSA(Technology Student Association) as President**
+  * **2015 ~ 2016 North Central Honor Orchestra as 2nd Violinist**
+  * **2014.08.28. ~ 2016.05.20. Cheyenne Middle School Orchestra as Violinist**
+
 ## Education and Training 🎓
   * **Studying in Soongsil University of AI Convergence.**
-  * **Completed Soongsil University Edu-Up Academy**
-  * **Completed 2021 iGEM VCL.**
+  * **Completed Soongsil University Edu-Up Academy.**
+  * **Completed 2021 iGEM VCL(Venture Creation Labs).**
   * **Graduated SW Education Course in Technology Convergence School of Ilsan Daejin High School in 2021.**
   * **Completed IoT(Internet of Things) Course in KAIST Cyber Education Course for Gifted Student in 2nd Semester of 2019.**
-  * **2013.12. - 2016.08. Studied in Oklahoma, USA for 2 years and 8 months.**
+  * **Graduated in Goyang Baeksok Middle School in 2018.**
+  * **Studied in Cheyenne Middle School as 6th ~ 7th Grade in 2014.08.28. ~ 2016.05.20.**
+  * **Graduated in John Ross Elementary School in 2014.**
 
 ## Abilties ❗
    ### Computer Languages 💻
-    * C
+    * ![image](https://user-images.githubusercontent.com/51695816/147418834-d52ef715-9126-4e9f-866b-8363deb80a80.png)
     * C# (Unity, WinForm, WinUI3)
     * Python (BS4, Selenium, Numpy, Pandas, MatPlotlib, Biopython, PyQT)
     * SQL (MySQL)
@@ -63,7 +74,7 @@
   * **Participated in 36th Gyeonggi-do Youth Science Exploration Contest (Convergence Science).**
   * **Participated in 36th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Convergence Science).**
 
-## Hardware/Software Career 🛠️
+## Engineering Career 🛠️
   * **Excellence Award (3rd Place) in 2021 Soongsil University AI Convergence Competition.**
   * **President of Korea Agency of Education, Promotion & Information Service in Food, Agriculture, Forestry & Fisheries Award (2nd Place) in Smart Farm & AI Chellange.**
   * **Gave a presentation in 2020 KSAS Fall Conference Organized Session.\
