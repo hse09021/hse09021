@@ -47,6 +47,8 @@
     * Linux
     * Ubuntu
     * Docker
+    * Discord
+    * Notion
 
 ## Natural Science Career 🔬
   * **Best Poster Award in ICGSK2020-APCC7 E-Poster Session.\
