@@ -38,7 +38,9 @@
       [![image](https://user-images.githubusercontent.com/51695816/147420055-89c2af04-bcad-4f69-a262-7ab3e2a04eac.png)](https://matplotlib.org/stable/)
       [![image](https://user-images.githubusercontent.com/51695816/147420058-6c41957f-3d52-4eef-aba4-adea9be9bb01.png)](https://biopython.org/wiki/Documentation)
       ![image](https://user-images.githubusercontent.com/51695816/147420061-6df58d51-d3ec-436a-ac24-980f0f6c1170.png)
-   * ![image](https://user-images.githubusercontent.com/51695816/147420220-28e8284f-3781-4c94-927d-966162a1dac1.png) [![image]https://user-images.githubusercontent.com/51695816/147420225-993d492d-64d1-4a75-9dec-a4520044be49.png)](https://dev.mysql.com/doc/)
+   * ![image](https://user-images.githubusercontent.com/51695816/147420220-28e8284f-3781-4c94-927d-966162a1dac1.png)
+   
+   [![image](https://user-images.githubusercontent.com/51695816/147420383-85115831-9d3c-4854-ae84-8a36a63b8f0f.png)](https://dev.mysql.com/doc/)
    * [![image](https://user-images.githubusercontent.com/51695816/147420326-bc3e2439-0b60-4ab1-9a7c-b57d9c9f1d89.png)](https://www.w3schools.com/html/default.asp)
       [![image](https://user-images.githubusercontent.com/51695816/147420331-f63888db-56f6-4a6d-8551-f0297d922c73.png)](https://www.w3schools.com/css/default.asp)
    * Ma
