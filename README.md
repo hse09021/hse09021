@@ -27,14 +27,22 @@
    ### Computer Languages 💻
    * [![image](https://user-images.githubusercontent.com/51695816/147419813-b3ce53ad-00c7-4112-9777-49949567c393.png)](https://www.ibm.com/docs/en/i/7.3?topic=languages-c-c)
    * [![image](https://user-images.githubusercontent.com/51695816/147419823-225dbd51-4af4-4933-b4e4-238bd97cdeb8.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-   [![image](https://user-images.githubusercontent.com/51695816/147419828-8f72e2e1-16bc-4d3a-b3bb-7dbe1d1ec755.png)](https://docs.unity3d.com/Manual/index.html)
-   [![image](https://user-images.githubusercontent.com/51695816/147419834-36a1fce0-e266-47ad-b794-b478f766efe4.png)](https://docs.microsoft.com/en-us/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2022)
-   [![image](https://user-images.githubusercontent.com/51695816/147419836-cc3decfa-c582-4978-a92e-53421c909053.png)](https://docs.microsoft.com/en-us/windows/apps/winui/winui3/)
+      [![image](https://user-images.githubusercontent.com/51695816/147419828-8f72e2e1-16bc-4d3a-b3bb-7dbe1d1ec755.png)](https://docs.unity3d.com/Manual/index.html)
+      [![image](https://user-images.githubusercontent.com/51695816/147419834-36a1fce0-e266-47ad-b794-b478f766efe4.png)](https://docs.microsoft.com/en-us/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2022)
+      [![image](https://user-images.githubusercontent.com/51695816/147419836-cc3decfa-c582-4978-a92e-53421c909053.png)](https://docs.microsoft.com/en-us/windows/apps/winui/winui3/)
    * [![image](https://user-images.githubusercontent.com/51695816/147419881-d99e366a-dcf6-4e43-9e12-aae7c7df43a1.png)](https://docs.python.org/3/)
-   * BS4, Selenium, Numpy, Pandas, MatPlotlib, Biopython, PyQT)
-   * SQL (MySQL)
-   * HTML/CSS
-   * Markdown
+      [![image](https://user-images.githubusercontent.com/51695816/147419932-95b8e160-7fbf-4ba9-80d1-36c159aee14d.png)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+      [![image](https://user-images.githubusercontent.com/51695816/147420020-21c4975f-45d6-4641-93dd-3377ad5261ab.png)](https://www.selenium.dev/selenium/docs/api/py/index.html)
+      [![image](https://user-images.githubusercontent.com/51695816/147420046-d592d599-c29b-4bce-86ff-2a2957aed937.png)](https://numpy.org/doc/stable/)
+      [![image](https://user-images.githubusercontent.com/51695816/147420050-a2ccf8d2-05d0-46d9-9c12-f8618f3b252b.png)](https://pandas.pydata.org/docs/)
+      [![image](https://user-images.githubusercontent.com/51695816/147420055-89c2af04-bcad-4f69-a262-7ab3e2a04eac.png)](https://matplotlib.org/stable/)
+      [![image](https://user-images.githubusercontent.com/51695816/147420058-6c41957f-3d52-4eef-aba4-adea9be9bb01.png)](https://biopython.org/wiki/Documentation)
+      ![image](https://user-images.githubusercontent.com/51695816/147420061-6df58d51-d3ec-436a-ac24-980f0f6c1170.png)
+   * ![image](https://user-images.githubusercontent.com/51695816/147420220-28e8284f-3781-4c94-927d-966162a1dac1.png)
+      [![image]https://user-images.githubusercontent.com/51695816/147420225-993d492d-64d1-4a75-9dec-a4520044be49.png)](https://dev.mysql.com/doc/)
+   * [![image](https://user-images.githubusercontent.com/51695816/147420326-bc3e2439-0b60-4ab1-9a7c-b57d9c9f1d89.png)](https://www.w3schools.com/html/default.asp)
+      [![image](https://user-images.githubusercontent.com/51695816/147420331-f63888db-56f6-4a6d-8551-f0297d922c73.png)](https://www.w3schools.com/css/default.asp)
+   * Ma
    * Shellscript
    * Dart (Flutter)
    * .ini File Programming for Rainmeter
