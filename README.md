@@ -26,7 +26,7 @@
 ## Abilties ❗
    ### Computer Languages 💻
    * ![image](https://user-images.githubusercontent.com/51695816/147418834-d52ef715-9126-4e9f-866b-8363deb80a80.png)
-   * C# (Unity, WinForm, WinUI3)
+   * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) (Unity, WinForm, WinUI3)
    * Python (BS4, Selenium, Numpy, Pandas, MatPlotlib, Biopython, PyQT)
    * SQL (MySQL)
    * HTML/CSS
