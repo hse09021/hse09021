@@ -6,6 +6,7 @@
 
 ## Education and Training 🎓
   * **Studying in Soongsil University of AI Convergence.**
+  * **Completed Soongsil University Edu-Up Academy**
   * **Completed 2021 iGEM VCL.**
   * **Graduated SW Education Course in Technology Convergence School of Ilsan Daejin High School in 2021.**
   * **Completed IoT(Internet of Things) Course in KAIST Cyber Education Course for Gifted Student in 2nd Semester of 2019.**
