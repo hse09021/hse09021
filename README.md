@@ -25,7 +25,7 @@
     * .ini File Programming for Rainmeter
     
   ### Reallife Languages 💬
-    * Native in 🇰🇷
+    * Native in Korean
     * Fluent in English
     * Little in Spanish
     * Little in Chinese
