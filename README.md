@@ -42,10 +42,11 @@
       [![image](https://user-images.githubusercontent.com/51695816/147420383-85115831-9d3c-4854-ae84-8a36a63b8f0f.png)](https://dev.mysql.com/doc/)
    * [![image](https://user-images.githubusercontent.com/51695816/147420326-bc3e2439-0b60-4ab1-9a7c-b57d9c9f1d89.png)](https://www.w3schools.com/html/default.asp)
       [![image](https://user-images.githubusercontent.com/51695816/147420331-f63888db-56f6-4a6d-8551-f0297d922c73.png)](https://www.w3schools.com/css/default.asp)
-   * Ma
-   * Shellscript
-   * Dart (Flutter)
-   * .ini File Programming for Rainmeter
+   * [![image](https://user-images.githubusercontent.com/51695816/147420407-c95b0b22-2b49-4b51-98fe-1a485bc912dd.png)](https://daringfireball.net/projects/markdown/)
+   * [![image](https://user-images.githubusercontent.com/51695816/147420444-d6e60c8a-f9bc-492c-8d6f-9a2a0fc0f9a3.png)](https://www.gnu.org/software/bash/manual/bash.html)
+   * [![image](https://user-images.githubusercontent.com/51695816/147420465-1269fc5d-c101-41d1-82e0-cab44d76958d.png)](https://dart.dev/guides)
+      [![image](https://user-images.githubusercontent.com/51695816/147420489-f65af235-eb04-4664-880f-66e2c9643a0c.png)](https://docs.flutter.dev/)
+   * ![image](https://user-images.githubusercontent.com/51695816/147420507-23ed606b-85de-4158-b227-3aab2edb6fa8.png) for [Rainmeter](https://docs.rainmeter.net/)
     
   ### Reallife Languages 💬
     * Native in Korean
