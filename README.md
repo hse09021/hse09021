@@ -25,8 +25,8 @@
 
 ## Abilties ❗
    ### Computer Languages 💻
-   * ![image](https://user-images.githubusercontent.com/51695816/147418834-d52ef715-9126-4e9f-866b-8363deb80a80.png)
-   * [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) (Unity, WinForm, WinUI3)
+   [![image](https://user-images.githubusercontent.com/51695816/147419609-2dd35e6d-8de9-43df-90a6-fcf912825242.png)](https://www.ibm.com/docs/en/i/7.3?topic=languages-c-c)\
+   [![image](https://user-images.githubusercontent.com/51695816/147419638-ad4b0113-d8a8-499b-a4b6-cdfb14a270e7.png)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![image](https://user-images.githubusercontent.com/51695816/147419643-76d377b7-2b39-4db0-9da7-69d6d36e3d95.png)](https://docs.unity3d.com/Manual/index.html) [![image](https://user-images.githubusercontent.com/51695816/147419668-a962f358-2f68-4588-ac9a-f9fdb8742cc1.png)](https://docs.microsoft.com/en-us/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2022) WinUI3
    * Python (BS4, Selenium, Numpy, Pandas, MatPlotlib, Biopython, PyQT)
    * SQL (MySQL)
    * HTML/CSS
