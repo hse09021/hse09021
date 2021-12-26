@@ -2,17 +2,17 @@
  > **It's time to wake up!**
 
 ## Work Experience 👓
-  * **2020.10.29. ~ [Syncorbis Inc.](https://syncorbis.com/) as SW Engineer**
+  * **2020.10.29. ~ [Syncorbis Inc.](https://syncorbis.com/) as SW Engineer.**
 
 ## Other Career Experience 🔍
-  * **2021.11.27. ~  [Soongsil University](https://ssu.ac.kr/) of [AI Convergence](http://aix.ssu.ac.kr/main) as Student President**
-  * **2019.08.24. ~ 2021.02.28. [Ilsan Daejin High School](https://isdj.hs.kr/) 3-7 as Class President**
-  * **2017.02.18. ~ 2019.04.07. [Goyang Youth Orchestra](http://www.gyyouthorchestra.com/orchestra/) as 2nd Violinist**
-  * **2019.03.04. ~ 2020.03.01. 현세 Robotics Club as Vice President**
-  * **2015.09.22. ~ 2016.05.18. [Cheyenne Middle School TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/) as President**
-  * **2015 ~ 2016 [North Central Honor Orchestra](https://cheyenne.edmondschools.net/2015/10/05/ncho2015/) as 2nd Violinist**
-  * **2014.08.28. ~ 2016.05.20. Cheyenne Middle School Orchestra as Violinist**
-  * **2014 ~ 2015 [Cheyenne Middle School Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/)**
+  * **2021.11.27. ~  [Soongsil University](https://ssu.ac.kr/) of [AI Convergence](http://aix.ssu.ac.kr/main) as Student President.**
+  * **2019.08.24. ~ 2021.02.28. [Ilsan Daejin High School](https://isdj.hs.kr/) 3-7 as Class President.**
+  * **2017.02.18. ~ 2019.04.07. [Goyang Youth Orchestra](http://www.gyyouthorchestra.com/orchestra/) as 2nd Violinist.**
+  * **2019.03.04. ~ 2020.03.01. 현세 Robotics Club as Vice President.**
+  * **2015.09.22. ~ 2016.05.18. [Cheyenne Middle School TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/) as President.**
+  * **2015 ~ 2016 [North Central Honor Orchestra](https://cheyenne.edmondschools.net/2015/10/05/ncho2015/) as 2nd Violinist.**
+  * **2014.08.28. ~ 2016.05.20. Cheyenne Middle School Orchestra as Violinist.**
+  * **2014 ~ 2015 [Cheyenne Middle School Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/).**
 
 ## Education and Training 🎓
   * **Studying in [Soongsil University](https://ssu.ac.kr/) of [AI Convergence](http://aix.ssu.ac.kr/main).**
