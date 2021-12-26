@@ -50,12 +50,12 @@
    * ![image](https://user-images.githubusercontent.com/51695816/147420507-23ed606b-85de-4158-b227-3aab2edb6fa8.png) for **[Rainmeter](https://docs.rainmeter.net/)**
     
   ### Reallife Languages 💬
-    * **Native in 한국어(Korean)**
+    * Native in 한국어(Korean)
     * Fluent in English
-    * Little in Spanish
-    * Little in Chinese
-    * Little in Japanese
-    * Can speak some words in Russian
+    * Little in Español(Spanish)
+    * Little in 汉语(Mandarin)
+    * Little in 日本語(Japanese)
+    * Can speak some words in Pусский(Russian)
 
   ### Available Program 💻
     * Autodesk Fusion 360
