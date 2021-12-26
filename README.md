@@ -12,7 +12,7 @@
   * **2015.09.22. ~ 2016.05.18. [Cheyenne Middle School TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/) as President**
   * **2015 ~ 2016 [North Central Honor Orchestra](https://cheyenne.edmondschools.net/2015/10/05/ncho2015/) as 2nd Violinist**
   * **2014.08.28. ~ 2016.05.20. Cheyenne Middle School Orchestra as Violinist**
-  * **2014 ~ 2015 [Cheyenne Middle School Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/)
+  * **2014 ~ 2015 [Cheyenne Middle School Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/)**
 
 ## Education and Training 🎓
   * **Studying in [Soongsil University](https://ssu.ac.kr/) of [AI Convergence](http://aix.ssu.ac.kr/main).**
