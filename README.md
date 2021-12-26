@@ -20,8 +20,8 @@
     * HTML/CSS
     * Markdown
     * Shellscript
-    * Flutter
-    * Docker
+    * Dart (Flutter)
+    * ini Programming for Rainmeter
     
   ### Reallife Languages 💬
     * Native in Korean
@@ -42,6 +42,11 @@
     * Clip Studio
     * MS Office
     * Ultimakr Cura
+    * Arduino
+    * Raspberry Pi OS (Raspbian)
+    * Linux
+    * Ubuntu
+    * Docker
 
 ## Natural Science Career 🔬
   * **Best Poster Award in ICGSK2020-APCC7 E-Poster Session.\
