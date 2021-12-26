@@ -14,11 +14,14 @@
 ## Abilties ❗
    ### Computer Languages 💻
     * C
-    * C#
-    * Python
-    * SQL
+    * C# (Unity, WinForm, WinUI3)
+    * Python (BS4, Selenium, Numpy, Pandas, MatPlotlib, Biopython, PyQT)
+    * SQL (MySQL)
     * HTML/CSS
+    * Markdown
     * Shellscript
+    * Flutter
+    * Docker
     
   ### Reallife Languages 💬
     * Native in Korean
@@ -29,7 +32,7 @@
     * Can speak some words in Russian
 
   ### Available Program 💻
-    * Austodesk Fusion 360
+    * Autodesk Fusion 360
     * Adobe Photoshop
     * Adobe Illustrator
     * Adobe Premiere Pro
@@ -38,6 +41,7 @@
     * Vegas Pro
     * Clip Studio
     * MS Office
+    * Ultimakr Cura
 
 ## Natural Science Career 🔬
   * **Best Poster Award in ICGSK2020-APCC7 E-Poster Session.\
