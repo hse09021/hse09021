@@ -49,6 +49,15 @@
      [![image](https://user-images.githubusercontent.com/51695816/147420489-f65af235-eb04-4664-880f-66e2c9643a0c.png)](https://docs.flutter.dev/)
   * ![image](https://user-images.githubusercontent.com/51695816/147420507-23ed606b-85de-4158-b227-3aab2edb6fa8.png) for [![image](https://user-images.githubusercontent.com/51695816/147904553-1688690c-ca60-4708-8e5a-1b68c44cb53d.png)](https://docs.rainmeter.net/)
 
+  ### Reallife Languages 💬
+    * Native in 한국어(Korean)
+    * Fluent in English
+    * Little in Español(Spanish)
+    * Little in 汉语(Mandarin)
+    * Little in 日本語(Japanese)
+    * Can speak some words in Pусский(Russian)
+
+  ### Available Program 💻
 [![image](https://user-images.githubusercontent.com/51695816/147905389-dcb54a89-5398-452a-a0d1-04506e72ff43.png)](https://www.autodesk.co.kr/products/fusion-360/overview)
 [![image](https://user-images.githubusercontent.com/51695816/147904369-43fa2140-f0ad-4c17-b406-0ae7fd242bfe.png)](https://www.adobe.com/products/photoshop.html)
 [![image](https://user-images.githubusercontent.com/51695816/147904440-96631054-5e3e-4d4b-9b0a-fc5c0338fd70.png)](https://www.adobe.com/products/illustrator.html)
@@ -67,17 +76,6 @@
 [![image](https://user-images.githubusercontent.com/51695816/147905103-8b258c61-ee5f-405f-bfe1-4c0c905b1745.png)](https://docs.docker.com/)
 [![image](https://user-images.githubusercontent.com/51695816/147905150-8db95924-a9a6-4cdd-a8d5-11d6768e1808.png)](https://discord.com/)
 [![image](https://user-images.githubusercontent.com/51695816/147905173-89ef10a1-77ac-4b08-bfd4-8830aa7d25f2.png)](https://developers.notion.com/)
-
-  ### Reallife Languages 💬
-    * Native in 한국어(Korean)
-    * Fluent in English
-    * Little in Español(Spanish)
-    * Little in 汉语(Mandarin)
-    * Little in 日本語(Japanese)
-    * Can speak some words in Pусский(Russian)
-
-  ### Available Program 💻
-
 
 ## Natural Science Career 🔬
   * **Best Poster Award in ICGSK2020-APCC7 E-Poster Session.\
