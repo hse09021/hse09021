@@ -26,11 +26,11 @@
 
 ## Abilties ❗
    ### Computer Languages 💻
-   * [![image](https://user-images.githubusercontent.com/51695816/147419813-b3ce53ad-00c7-4112-9777-49949567c393.png)](https://www.ibm.com/docs/en/i/7.3?topic=languages-c-c)
-   * [![image](https://user-images.githubusercontent.com/51695816/147419823-225dbd51-4af4-4933-b4e4-238bd97cdeb8.png)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+   * [![image](https://user-images.githubusercontent.com/51695816/147419813-b3ce53ad-00c7-4112-9777-49949567c393.png)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
+   * [![image](https://user-images.githubusercontent.com/51695816/147419823-225dbd51-4af4-4933-b4e4-238bd97cdeb8.png)](https://docs.microsoft.com/dotnet/csharp/)
       [![image](https://user-images.githubusercontent.com/51695816/147419828-8f72e2e1-16bc-4d3a-b3bb-7dbe1d1ec755.png)](https://docs.unity3d.com/Manual/index.html)
-      [![image](https://user-images.githubusercontent.com/51695816/147419834-36a1fce0-e266-47ad-b794-b478f766efe4.png)](https://docs.microsoft.com/en-us/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2022)
-      [![image](https://user-images.githubusercontent.com/51695816/147419836-cc3decfa-c582-4978-a92e-53421c909053.png)](https://docs.microsoft.com/en-us/windows/apps/winui/winui3/)
+      [![image](https://user-images.githubusercontent.com/51695816/147419834-36a1fce0-e266-47ad-b794-b478f766efe4.png)](https://docs.microsoft.com/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2022)
+      [![image](https://user-images.githubusercontent.com/51695816/147419836-cc3decfa-c582-4978-a92e-53421c909053.png)](https://docs.microsoft.com/windows/apps/winui/winui3/)
    * [![image](https://user-images.githubusercontent.com/51695816/147419881-d99e366a-dcf6-4e43-9e12-aae7c7df43a1.png)](https://docs.python.org/3/)
       [![image](https://user-images.githubusercontent.com/51695816/147419932-95b8e160-7fbf-4ba9-80d1-36c159aee14d.png)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
       [![image](https://user-images.githubusercontent.com/51695816/147420020-21c4975f-45d6-4641-93dd-3377ad5261ab.png)](https://www.selenium.dev/selenium/docs/api/py/index.html)
@@ -47,8 +47,8 @@
    * [![image](https://user-images.githubusercontent.com/51695816/147420444-d6e60c8a-f9bc-492c-8d6f-9a2a0fc0f9a3.png)](https://www.gnu.org/software/bash/manual/bash.html)
    * [![image](https://user-images.githubusercontent.com/51695816/147420465-1269fc5d-c101-41d1-82e0-cab44d76958d.png)](https://dart.dev/guides)
       [![image](https://user-images.githubusercontent.com/51695816/147420489-f65af235-eb04-4664-880f-66e2c9643a0c.png)](https://docs.flutter.dev/)
-   * ![image](https://user-images.githubusercontent.com/51695816/147420507-23ed606b-85de-4158-b227-3aab2edb6fa8.png) for **[Rainmeter](https://docs.rainmeter.net/)**
-    
+   * ![image](https://user-images.githubusercontent.com/51695816/147420507-23ed606b-85de-4158-b227-3aab2edb6fa8.png) for [![image](https://user-images.githubusercontent.com/51695816/147904553-1688690c-ca60-4708-8e5a-1b68c44cb53d.png)](https://docs.rainmeter.net/)
+
   ### Reallife Languages 💬
     * Native in 한국어(Korean)
     * Fluent in English
@@ -58,24 +58,24 @@
     * Can speak some words in Pусский(Russian)
 
   ### Available Program 💻
-    * Autodesk Fusion 360
-    * Adobe Photoshop
-    * Adobe Illustrator
-    * Adobe Premiere Pro
-    * Adobe XD
-    * Figma
-    * Vegas Pro
-    * Clip Studio
-    * MS Office
-    * Ultimakr Cura
-    * Rainmeter
-    * Arduino
-    * Raspberry Pi OS (Raspbian)
-    * Linux
-    * Ubuntu
-    * Docker
-    * Discord
-    * Notion
+    * [![image](https://www.autodesk.co.kr/products/fusion-360/overview)
+    * [![image](https://user-images.githubusercontent.com/51695816/147904369-43fa2140-f0ad-4c17-b406-0ae7fd242bfe.png)](https://www.adobe.com/products/photoshop.html)
+    * [![image](https://user-images.githubusercontent.com/51695816/147904440-96631054-5e3e-4d4b-9b0a-fc5c0338fd70.png)](https://www.adobe.com/products/illustrator.html)
+    * [![image](https://user-images.githubusercontent.com/51695816/147904478-17c02c1f-05d2-44eb-af70-692f8c573c2f.png)](https://www.adobe.com/products/premiere.html)
+    * [![image](https://user-images.githubusercontent.com/51695816/147904493-83547122-002d-4629-b523-0ac61a3b60f6.png)](https://www.adobe.com/products/xd.html)
+    * [![image](https://user-images.githubusercontent.com/51695816/147904499-bcd8a00e-4f87-49ec-904d-c0933d99dc48.png)](https://www.figma.com/)
+    * [![image](https://user-images.githubusercontent.com/51695816/147904526-5bc12297-5ff2-4503-85f4-323d51d367aa.png)](https://www.vegascreativesoftware.com/us/vegas-pro/)
+    * [![image](https://user-images.githubusercontent.com/51695816/147904572-65806691-4fd7-4fff-9a04-4cfbe2d9924b.png)](https://www.clipstudio.net/)
+    * [![image](https://user-images.githubusercontent.com/51695816/147904636-f36a2587-77d9-4ccf-9ff0-6bf9ab092412.png)](https://www.microsoft.com/microsoft-365)
+    * [![image](https://user-images.githubusercontent.com/51695816/147904682-65b696ea-e480-45a5-b06b-88067c5eaa01.png)](https://ultimaker.com/software/ultimaker-cura)
+    * [![image](https://user-images.githubusercontent.com/51695816/147904751-e019574a-0446-43a4-935f-d46dadf0052b.png)](https://docs.rainmeter.net/)
+    * [![image](https://user-images.githubusercontent.com/51695816/147904875-217ec0ef-eb6d-4e31-a42d-e7fa336b927c.png)](https://www.arduino.cc/en/main/docs)
+    * [![image](https://user-images.githubusercontent.com/51695816/147904930-e0882124-7a8a-4eb2-86de-0469c79fa667.png)](https://www.raspberrypi.com/documentation/)
+    * [![image](https://user-images.githubusercontent.com/51695816/147905012-cb530ce4-4419-44a4-b0d9-bacecc3979de.png)](https://www.kernel.org/doc/html/latest/)
+    * [![image](https://user-images.githubusercontent.com/51695816/147905093-85f98849-6df2-4b68-8080-d7565f951b0e.png)](https://help.ubuntu.com/)
+    * [![image](https://user-images.githubusercontent.com/51695816/147905103-8b258c61-ee5f-405f-bfe1-4c0c905b1745.png)](https://docs.docker.com/)
+    * [![image](https://user-images.githubusercontent.com/51695816/147905150-8db95924-a9a6-4cdd-a8d5-11d6768e1808.png)](https://discord.com/)
+    * [![image](https://user-images.githubusercontent.com/51695816/147905173-89ef10a1-77ac-4b08-bfd4-8830aa7d25f2.png)](https://developers.notion.com/)
 
 ## Natural Science Career 🔬
   * **Best Poster Award in ICGSK2020-APCC7 E-Poster Session.\
