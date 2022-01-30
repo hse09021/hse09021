@@ -2,7 +2,7 @@
  > **It's time to wake up!**
 
 ## Work Experience 👓
-  * **2020.10.29. ~ [Syncorbis Inc.](https://syncorbis.com/) as SW Engineer.**
+  * **2020.10.29. ~ 2022.01.31. [Syncorbis Inc.](https://syncorbis.com/) as SW Engineer.**
 
 ## Other Career Experience 🔍
   * **2021.11.27. ~  [Soongsil University](https://ssu.ac.kr/) of [AI Convergence](http://aix.ssu.ac.kr/main) as Student President.**
