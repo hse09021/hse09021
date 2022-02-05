@@ -16,7 +16,9 @@
 
 ## Education and Training 🎓
   * **Studying in [Soongsil University](https://ssu.ac.kr/)**
-     - **[AI Convergence](http://aix.ssu.ac.kr/main).**
+     - **Major: [AI Convergence](http://aix.ssu.ac.kr/main)**
+     - **Intensive Major: [Post-Semiconductor(System SW)](https://semicon.disu.ac.kr/)**
+     - **Convergence Major: [Startup Convergence](https://startup.ssu.ac.kr/)**
 
   * **Completed [Soongsil University Edu-Up Academy](https://startupclass.kr/) in 2021.**
   * **Completed [2021 iGEM VCL(Venture Creation Labs)](https://blog.igem.org/blog/2021/5/15/the-igem-epic-2021-venture-creation-labs).**
