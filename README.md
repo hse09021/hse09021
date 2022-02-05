@@ -15,7 +15,7 @@
   * **2014 ~ 2015 [Cheyenne Middle School Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/).**
 
 ## Education and Training 🎓
-  * **Studying in [Soongsil University](https://ssu.ac.kr/) since 2021**
+  * **Studying in [Soongsil University](https://ssu.ac.kr/) since 2021.**
      - **Major: [AI Convergence](http://aix.ssu.ac.kr/main)**
      - **Intensive Major: [Post-Semiconductor(System SW)](https://semicon.disu.ac.kr/)**
      - **Convergence Major: [Startup Convergence](https://startup.ssu.ac.kr/)**
