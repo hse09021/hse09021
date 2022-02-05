@@ -115,6 +115,8 @@
   * **3rd Place in 2015-2016 TSA Oklahoma State Conference Vex IQ Robotics Excellence Award**
   
 ## Invention & Startup Career 💡
+  * **Excellence Award (2nd Place) in 2021 Soongsil University Engaged Learning Competition**
+  * **1st Place in 2021 Korea University X-Garage Demo Day.**
   * **Participated in K-Startup 2021 U300 Competition.**
   * **President of Korea Association of Industry, Academy and Research Institute Award (4th Place) in 2021 Venture Start-up Competition from Seoul National University of Science and Technology.**
   * **Selected in Korea University 10th Startup Campus Town Entry Competition.**
