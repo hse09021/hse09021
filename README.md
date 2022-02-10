@@ -119,6 +119,7 @@
    <b>2021</b>
   </summary>
 
+  * **Excellence Award (2nd Place) in 2021 Soongsil University Engaged Learning Competition**
   * **Excellence Award (3rd Place) in 2021 Soongsil University AI Convergence Competition.**
   * **President of Korea Agency of Education, Promotion & Information Service in Food, Agriculture, Forestry & Fisheries Award (2nd Place) in Smart Farm & AI Chellange.**  
  </details>
@@ -185,7 +186,6 @@
    <b>2021</b>
   </summary>
 
-  * **Excellence Award (2nd Place) in 2021 Soongsil University Engaged Learning Competition**
   * **1st Place in 2021 Korea University X-Garage Demo Day.**
   * **Participated in K-Startup 2021 U300 Competition.**
   * **President of Korea Association of Industry, Academy and Research Institute Award (4th Place) in 2021 Venture Start-up Competition from Seoul National University of Science and Technology.**
