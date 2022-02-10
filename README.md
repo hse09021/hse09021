@@ -82,6 +82,10 @@
    * [![image](https://user-images.githubusercontent.com/51695816/147905173-89ef10a1-77ac-4b08-bfd4-8830aa7d25f2.png)](https://developers.notion.com/)
 
 ## Natural Science Career 🔬
+<details>
+ <summary>
+  2020
+ </summary>
   * **Best Poster Award in ICGSK2020-APCC7 E-Poster Session.\
     Research Activity: <DNA Music, Composing Biological Music via AI Programming>**
   * **Participated in KAIST YOUTH Scientist Camp of 2019 2nd Semester.**
@@ -92,7 +96,8 @@
   * **Participated in 37th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Convergence Science).**
   * **Participated in 36th Gyeonggi-do Youth Science Exploration Contest (Convergence Science).**
   * **Participated in 36th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Convergence Science).**
-
+</details>
+ 
 ## Engineering Career 🛠️
   * **Excellence Award (3rd Place) in 2021 Soongsil University AI Convergence Competition.**
   * **President of Korea Agency of Education, Promotion & Information Service in Food, Agriculture, Forestry & Fisheries Award (2nd Place) in Smart Farm & AI Chellange.**
