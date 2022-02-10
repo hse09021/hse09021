@@ -82,29 +82,63 @@
    * [![image](https://user-images.githubusercontent.com/51695816/147905173-89ef10a1-77ac-4b08-bfd4-8830aa7d25f2.png)](https://developers.notion.com/)
 
 ## Natural Science Career 🔬
-<details>
- <summary>
-  2020
- </summary>
-  * **Best Poster Award in ICGSK2020-APCC7 E-Poster Session.\
-    Research Activity: <DNA Music, Composing Biological Music via AI Programming>**
-  * **Participated in KAIST YOUTH Scientist Camp of 2019 2nd Semester.**
-  * **Gave a presentation in ICGSK2019 Next Generation Session.\
-    Research Activity: \<Musicalization of DNA Using Python\>**
-  * **Gave a presentation in IJCGM2018 Junior High & High School Scientist Workshop Session.\
-    Research Activity: \<SW Convergence Learning Diocese for Student Participation-oriented Classes for Understanding Genetic Expression Process\>**
-  * **Participated in 37th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Convergence Science).**
-  * **Participated in 36th Gyeonggi-do Youth Science Exploration Contest (Convergence Science).**
-  * **Participated in 36th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Convergence Science).**
-</details>
+ <details>
+  <summary>
+   <b>2020</b>
+  </summary>
+
+   * **Best Poster Award in ICGSK2020-APCC7 E-Poster Session.\
+     Research Activity: <DNA Music, Composing Biological Music via AI Programming>**
+   * **Participated in KAIST YOUTH Scientist Camp of 2019 2nd Semester.**
+ </details>
+
+ <details>
+  <summary>
+   <b>2019</b>
+  </summary>
+
+   * **Gave a presentation in ICGSK2019 Next Generation Session.\
+     Research Activity: \<Musicalization of DNA Using Python\>**
+   * **Participated in 37th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Convergence Science).**
+  </details>
+
+ <details>
+  <summary>
+   <b>2018</b>
+  </summary>
+
+   * **Gave a presentation in IJCGM2018 Junior High & High School Scientist Workshop Session.\
+     Research Activity: \<SW Convergence Learning Diocese for Student Participation-oriented Classes for Understanding Genetic Expression Process\>**
+   * **Participated in 36th Gyeonggi-do Youth Science Exploration Contest (Convergence Science).**
+   * **Participated in 36th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Convergence Science).**
+  </details>
  
 ## Engineering Career 🛠️
+ <details>
+  <summary>
+   <b>2021</b>
+  </summary>
+
   * **Excellence Award (3rd Place) in 2021 Soongsil University AI Convergence Competition.**
-  * **President of Korea Agency of Education, Promotion & Information Service in Food, Agriculture, Forestry & Fisheries Award (2nd Place) in Smart Farm & AI Chellange.**
+  * **President of Korea Agency of Education, Promotion & Information Service in Food, Agriculture, Forestry & Fisheries Award (2nd Place) in Smart Farm & AI Chellange.**  
+ </details>
+  
+ <details>
+  <summary>
+   <b>2020</b>
+  </summary>
+  
   * **Gave a presentation in 2020 KSAS Fall Conference Organized Session.\
     Research Activity: \<Design of Cansat with Landing Direction Control System\>**
   * **President of Korea Aerospace Research Institute Award (3rd Place) in 2020 CanSat Competition from KAIST High School Session.**
   * **Participated in 2020 IBM Call for Code Korea Hackathon.**
+ </details>
+  
+ <details>
+  <summary>
+   <b>2019</b>
+  </summary>
+
   * **Grand Prize (1st Place) in 2019 Korea University Secondary School SW Competition.**
   * **Member of National Assembly Award in 10th Creative Maker’s Field 3D Printing & SW Application Ideathon of The Age of 4th Industrial Revolution.**
   * **Bronze Medal in 4th National High School Software Club Competition from KAIST.**
@@ -113,17 +147,44 @@
   * **President of Science, ICT, Broadcasting, and Communications Committee Award in 9th Creative Maker’s Field SW Application Idea Competition of The Age of 4th Industrial Revolution.**
   * **President of Korea 3D Printing Service Association Award in 9th Creative Maker’s Field SW Application Idea Competition of The Age of 4th Industrial Revolution.**
   * **Think Award (3rd Place) in World Robot Olympiad 2019 Korea Competition High School Creative Session.**
+ </details>
+  
+ <details>
+  <summary>
+   <b>2018</b>
+  </summary>
+
   * **President of Korea 3D Printing Service Association Award in 8th Creative Maker’s Field SW Application Competition of The Age of 4th Industrial Revolution.**
   * **Participated in 2018 Maker Project Club Supporting Project\
     Research Activity: \<Patient-Tailored Recycled Fidget Toys for Stroke Patients\>**
   * **Encouragement Award (4th Place) in 2018 Highschool SW Hackathon from Sejong University.**
+ </details>
+
+ <details>
+  <summary>
+   <b>2017</b>
+  </summary>
+
   * **Participated in 35th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Mechenical Engineering).**
+ </details>
+
+ <details>
+  <summary>
+   <b>2016</b>
+  </summary>
+
   * **1st Place 2015-2016 TSA Oklahoma State Conference VEX IQ Robotics Driving Skill Challenge.**
   * **2nd Place 2015-2016 TSA Oklahoma State Conference VEX IQ Robotics Programming Skill Challenge.**
   * **2nd Place in 2015-2016 TSA Oklahoma State Conference System Control Technology.**
-  * **3rd Place in 2015-2016 TSA Oklahoma State Conference Vex IQ Robotics Excellence Award**
-  
+  * **3rd Place in 2015-2016 TSA Oklahoma State Conference Vex IQ Robotics Excellence Award.**
+ </details>
+
 ## Invention & Startup Career 💡
+ <details>
+  <summary>
+   <b>2021</b>
+  </summary>
+
   * **Excellence Award (2nd Place) in 2021 Soongsil University Engaged Learning Competition**
   * **1st Place in 2021 Korea University X-Garage Demo Day.**
   * **Participated in K-Startup 2021 U300 Competition.**
@@ -134,9 +195,25 @@
   * **Selected in 2021 Soongsil University Pre-Startup Team.**
   * **Selected in 1st 10X Program Future Group Track.**
   * **Selected in 2021 SW Maestro Sustainable Growth Support Project.**
+ </details>
+
+ <details>
+  <summary>
+   <b>2020</b>
+  </summary>
+
   * **1st Place in 2020 Korea University X-Garage Demo Day.**
   * **Patent "Fire Guidance System" (Application No. 10-2020-0032040)**
+ </details>
+
+ <details>
+  <summary>
+   <b>2016</b>
+  </summary>
+
   * **2015-2016 TSA Oklahoma State Conference Promotional Marketing 2nd.**
+ </details>
+
 
 
 <!--
