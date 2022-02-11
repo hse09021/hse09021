@@ -183,7 +183,7 @@
 ## Invention & Startup Career 💡
  <details>
   <summary>
-   <b>2021</b>
+   <b>2022</b>
   </summary>
 
   * **Hwaseong Award (2nd Place) in KICS Winter Conference 2022 Smart City Idea Competition**
