@@ -186,6 +186,14 @@
    <b>2021</b>
   </summary>
 
+  * **Hwaseong Award (2nd Place) in KICS Winter Conference 2022 Smart City Idea Competition**
+ </details>
+
+ <details>
+  <summary>
+   <b>2021</b>
+  </summary>
+
   * **1st Place in 2021 Korea University X-Garage Demo Day.**
   * **Participated in K-Startup 2021 U300 Competition.**
   * **President of Korea Association of Industry, Academy and Research Institute Award (4th Place) in 2021 Venture Start-up Competition from Seoul National University of Science and Technology.**
