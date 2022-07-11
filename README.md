@@ -5,6 +5,7 @@
   * **2020.10.29. ~ 2022.01.31. [Syncorbis Inc.](https://syncorbis.com/) as SW Engineer.**
 
 ## Other Career Experience 🔍
+  * **2022.06.26. ~ 2022.07.21. Ilsan Daejin Highschool Mentorship Program 유니버스로 가는길 2기 as AI/IT Mentor.**
   * **2021.11.27. ~  [Soongsil University](https://ssu.ac.kr/) of [AI Convergence](http://aix.ssu.ac.kr/main) as Student President.**
   * **2019.08.24. ~ 2021.02.28. [Ilsan Daejin High School](https://isdj.hs.kr/) 3-7 as Class President.**
   * **2017.02.18. ~ 2019.04.07. [Goyang Youth Orchestra](http://www.gyyouthorchestra.com/orchestra/) as 2nd Violinist.**
@@ -187,6 +188,8 @@
   </summary>
 
   * **Hwaseong Award (2nd Place) in KICS Winter Conference 2022 Smart City Idea Competition**
+  * **Selected in 2022 Soongsil University Pre-Startup Team.**
+  * **Excellence Award(2nd Place) in 2022 Pre-Startup Start-up Competition from Soongsil University.**
  </details>
 
  <details>
@@ -199,7 +202,7 @@
   * **President of Korea Association of Industry, Academy and Research Institute Award (4th Place) in 2021 Venture Start-up Competition from Seoul National University of Science and Technology.**
   * **Selected in Korea University 10th Startup Campus Town Entry Competition.**
   * **Selected in 2021 Korea University X-Garage Maintenance Program.**
-  * **Excellence Award (3rd Place) in 2021 Global Venture School & Hackathon Competition in Soongsil University.**
+  * **Excellence Award (3rd Place) in 2021 Global Venture School & Hackathon Competition from Soongsil University.**
   * **Selected in 2021 Soongsil University Pre-Startup Team.**
   * **Selected in 1st 10X Program Future Group Track.**
   * **Selected in 2021 SW Maestro Sustainable Growth Support Project.**
