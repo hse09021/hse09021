@@ -33,7 +33,7 @@
    ### Computer Languages 💻
    [![image](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
    [![image](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
-   [![image](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=Csharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
+   [![image](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
    [![image](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)](https://docs.microsoft.com/dotnet/)
    [![image](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)](https://docs.unity3d.com/Manual/index.html)
    [![image](https://img.shields.io/badge/WinForm-0078D6?style=flat-square&logo=windows&logoColor=white)](https://docs.microsoft.com/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2022)
@@ -43,7 +43,8 @@
    [![image](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/selenium/docs/api/py/index.html)
    [![image](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/)
    [![image](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
-   [![image](https://img.shields.io/badge/Scikit-Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)]
+   [![image](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit%2Dlearn&logoColor=white)](https://scikit-learn.org/stable/)
+   [![image](https://img.shields.io/badge/Matplotlib-3F4F75?style=flat-square&logo=plotly&logoColor=white)](https://matplotlib.org/stable/)
 
    
   * [![image](https://user-images.githubusercontent.com/51695816/147419813-b3ce53ad-00c7-4112-9777-49949567c393.png)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
