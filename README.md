@@ -31,8 +31,17 @@
 
 ## Abilties ❗
    ### Computer Languages 💻
-  * [![image](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
-  [![image](https://user-images.githubusercontent.com/51695816/147419813-b3ce53ad-00c7-4112-9777-49949567c393.png)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
+   [![image](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
+   [![image](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
+   [![image](https://img.shields.io/badge/C#-239120?style=flat-square&logo=csharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
+   [![image](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)](https://docs.microsoft.com/dotnet/)
+   [![image](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)](https://docs.unity3d.com/Manual/index.html)
+   [![image](https://img.shields.io/badge/WinForm-0078D6?style=flat-square&logo=windows&logoColor=white)](https://docs.microsoft.com/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2022)
+   [![image](https://img.shields.io/badge/WinUI3-0078D6?style=flat-square&logo=windows&logoColor=white)](https://docs.microsoft.com/windows/apps/winui/winui3/)
+   [![image](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/)
+   
+   
+  * [![image](https://user-images.githubusercontent.com/51695816/147419813-b3ce53ad-00c7-4112-9777-49949567c393.png)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
   * [![image](https://user-images.githubusercontent.com/51695816/147419823-225dbd51-4af4-4933-b4e4-238bd97cdeb8.png)](https://docs.microsoft.com/dotnet/csharp/)
      [![image](https://user-images.githubusercontent.com/51695816/147419828-8f72e2e1-16bc-4d3a-b3bb-7dbe1d1ec755.png)](https://docs.unity3d.com/Manual/index.html)
      [![image](https://user-images.githubusercontent.com/51695816/147419834-36a1fce0-e266-47ad-b794-b478f766efe4.png)](https://docs.microsoft.com/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2022)
