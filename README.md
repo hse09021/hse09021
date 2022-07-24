@@ -33,7 +33,7 @@
    ### Computer Languages 💻
    [![image](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
    [![image](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
-   [![image](https://img.shields.io/badge/C#-239120?style=flat-square&logo=c%23&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
+   [![image](https://img.shields.io/badge/C#-239120?style=flat-square&logo=Csharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
    [![image](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white)](https://docs.microsoft.com/dotnet/)
    [![image](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)](https://docs.unity3d.com/Manual/index.html)
    [![image](https://img.shields.io/badge/WinForm-0078D6?style=flat-square&logo=windows&logoColor=white)](https://docs.microsoft.com/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2022)
