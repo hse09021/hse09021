@@ -31,7 +31,8 @@
 
 ## Abilties ❗
    ### Computer Languages 💻
-  * [![image](https://user-images.githubusercontent.com/51695816/147419813-b3ce53ad-00c7-4112-9777-49949567c393.png)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
+  * https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white&link=https://www.ibm.com/docs/i/7.3?topic=languages-c-c"/></a>&nbsp
+  [![image](https://user-images.githubusercontent.com/51695816/147419813-b3ce53ad-00c7-4112-9777-49949567c393.png)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
   * [![image](https://user-images.githubusercontent.com/51695816/147419823-225dbd51-4af4-4933-b4e4-238bd97cdeb8.png)](https://docs.microsoft.com/dotnet/csharp/)
      [![image](https://user-images.githubusercontent.com/51695816/147419828-8f72e2e1-16bc-4d3a-b3bb-7dbe1d1ec755.png)](https://docs.unity3d.com/Manual/index.html)
      [![image](https://user-images.githubusercontent.com/51695816/147419834-36a1fce0-e266-47ad-b794-b478f766efe4.png)](https://docs.microsoft.com/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2022)
