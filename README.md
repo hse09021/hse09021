@@ -39,7 +39,12 @@
    [![image](https://img.shields.io/badge/WinForm-0078D6?style=flat-square&logo=windows&logoColor=white)](https://docs.microsoft.com/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2022)
    [![image](https://img.shields.io/badge/WinUI3-0078D6?style=flat-square&logo=windows&logoColor=white)](https://docs.microsoft.com/windows/apps/winui/winui3/)
    [![image](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://docs.python.org/3/)
-   
+   [![image](https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+   [![image](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/selenium/docs/api/py/index.html)
+   [![image](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/)
+   [![image](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
+   [![image](https://img.shields.io/badge/Scikit-Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)]
+
    
   * [![image](https://user-images.githubusercontent.com/51695816/147419813-b3ce53ad-00c7-4112-9777-49949567c393.png)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
   * [![image](https://user-images.githubusercontent.com/51695816/147419823-225dbd51-4af4-4933-b4e4-238bd97cdeb8.png)](https://docs.microsoft.com/dotnet/csharp/)
