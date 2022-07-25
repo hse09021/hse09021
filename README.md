@@ -31,7 +31,6 @@
 
 ## Abilties ❗
    ### Computer Languages 💻
-    <center>
      [![image](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
      [![image](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
      [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/reference/)
@@ -59,7 +58,6 @@
      [![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/guides)
      [![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev/)
      [![image](https://img.shields.io/badge/INI%20for%20Rainmeter-19519B?style=for-the-badge&logo=rainmeter&logoColor=white)](https://docs.rainmeter.net/)
-    </center>
 
   ### Reallife Languages 💬
     * Native in 한국어(Korean)
