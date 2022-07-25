@@ -46,7 +46,7 @@
    [![image](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
    [![image](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit%2Dlearn&logoColor=white)](https://scikit-learn.org/stable/)
    [![image](https://img.shields.io/badge/Matplotlib-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/stable/)
-   [![image](https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=DNA&logoColor=white)](https://biopython.org/wiki/Documentation)
+   [![image](https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://biopython.org/wiki/Documentation)
    [![image](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://doc.qt.io/qtforpython/)
    ![image](https://img.shields.io/badge/SQL-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
    [![image](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
