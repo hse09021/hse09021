@@ -230,6 +230,10 @@
   * **2015-2016 TSA Oklahoma State Conference Promotional Marketing 2nd.**
  </details>
 
+## Contact📱
+  [![image](https://img.shields.io/badge/Instagram(EN)-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mingyu_0220)
+  [![image](https://img.shields.io/badge/Instagram(KO)-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mgkim0220)
+  [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.instagram.com/mingyu_0220)
 
 
 <!--
