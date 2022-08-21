@@ -30,8 +30,8 @@
 
 ## Club Activities 🚩
   * **1st Member of MAKERS SW Project Club in Soongsil University, AI Convergence**
-  * **39th Member of [SSCC(Soongsil Computing Club)](https://www.sscc.space) in Soongsil University**
-  * **25th Member of Synergy Startup Club in Soongsil University**
+  * **39th Member of [SSCC(Soongsil Computing Club)](https://instagram.com/sscc_ssu?igshid=YmMyMTA2M2Y=) in Soongsil University**
+  * **25th Member of [Synergy Startup Club](https://instagram.com/ssu_synergy?igshid=YmMyMTA2M2Y=) in Soongsil University**
   * **4th Member of 현세 Robotics Club in Ilsan Daejin High School**
   * **1st Member of [TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/) in Cheyenne Middle School**
 
