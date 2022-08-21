@@ -28,6 +28,13 @@
   * **Studied in [Cheyenne Middle School](https://cheyenne.edmondschools.net/) as 6th ~ 7th Grade in 2014.08.28. ~ 2016.05.20.**
   * **Graduated in [John Ross Elementary School](https://johnross.edmondschools.net/) in 2014.**
 
+## Club Activities 🚩
+  * **1st Member of MAKERS SW Project Club in Soongsil University, AI Convergence**
+  * **39th Member of SSCC(Soongsil Computing Club) Computing Club in Soongsil University**
+  * **25th Member of Synergy Startup Club in Soongsil University**
+  * **4th Member of 현세 Robotics Club in Ilsan Daejin High School**
+  * **1st Member of TSA(Technology Student Association) in Cheyenne Middle School**
+
 ## Abilties ❗
    ### Computer Languages 💻
    [![image](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
