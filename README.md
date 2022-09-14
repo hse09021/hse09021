@@ -1,5 +1,5 @@
 ### My Status 📢
- > **It's time to wake up!**
+ > **RESTART**
 
 ## Work Experience 👓
   * **2020.10.29. ~ 2022.01.31. [Syncorbis Inc.](https://syncorbis.com/) as SW Engineer.**
