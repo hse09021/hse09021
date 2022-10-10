@@ -32,7 +32,9 @@
   * **Graduated in [John Ross Elementary School](https://johnross.edmondschools.net/) in 2014.**
 
 ## Club Activities 🚩
+  * **1st Member of AIX Developer Team in Soongsil University, AI Convergence**
   * **1st Member of MAKERS SW Project Club in Soongsil University, AI Convergence**
+  * **6th Member of Kaleido Game & VR/AR Content Development Club in Soongsil University, College of Information Technology**
   * **39th Member of [SSCC(Soongsil Computing Club)](https://ssccpromotion.xyz/) in Soongsil University**
   * **25th Member of [Synergy Startup Club](https://instagram.com/ssu_synergy?igshid=YmMyMTA2M2Y=) in Soongsil University**
   * **4th Member of 현세 Robotics Club in Ilsan Daejin High School**
