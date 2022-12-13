@@ -227,7 +227,7 @@
   </summary>
 
   * **1st Place in 2020 Korea University X-Garage Demo Day.**
-  * **Patent "Fire Guidance System" (Application No. 10-2020-0032040)**
+  * **Patent "Fire Guidance System" (Application No. 10-2150228-0000)**
  </details>
 
  <details>
