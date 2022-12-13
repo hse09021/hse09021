@@ -6,7 +6,7 @@
 
 ## Other Career Experience 🔍
   * **2022.06.26. ~ 2022.07.21. Ilsan Daejin Highschool Mentorship Program Road to Universe 2nd as AI/IT Mentor.**
-  * **2021.11.27. ~  [Soongsil University](https://ssu.ac.kr/) of [AI Convergence](http://aix.ssu.ac.kr/main) as Student President.**
+  * **2021.11.27. ~  [Soongsil University](https://ssu.ac.kr/) of [AI Convergence](http://aix.ssu.ac.kr/main) as Student Representative**
   * **2019.08.24. ~ 2021.02.28. [Ilsan Daejin High School](https://isdj.hs.kr/) 3-7 as Class President.**
   * **2017.02.18. ~ 2019.04.07. [Goyang Youth Orchestra](http://www.gyyouthorchestra.com/orchestra/) as 2nd Violinist.**
   * **2019.03.04. ~ 2020.03.01. 현세 Robotics Club as Vice President.**
