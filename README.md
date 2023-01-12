@@ -203,7 +203,7 @@
    <b>2022</b>
   </summary>
 
-    * **Excellence Award (2nd Place) in 2022 Pre-Startup Start-up Competition from Soongsil University.**
+  * **Excellence Award (2nd Place) in 2022 Pre-Startup Start-up Competition from Soongsil University.**
   * **Selected in 2022 Soongsil University Pre-Startup Team.**
   * **Excellence Award (1st Place) Global Startup Development Program.**
   * **Hwaseong Award (2nd Place) in KICS Winter Conference 2022 Smart City Idea Competition.**
