@@ -5,8 +5,10 @@
   * **2020.10.29. ~ 2022.01.31. [Syncorbis Inc.](https://syncorbis.com/) as SW Engineer.**
 
 ## Other Career Experience 🔍
+  * **2023.12.23. ~ [Soongsil University](https://ssu.ac.kr/) as Director of Facilities Management.**
+  * **2022.11.14. ~ [Soongsil University](https://ssu.ac.kr/) of [Next Generation Semiconductor Innovation Sharing University](https://disu.ac.kr) as Software Engineer.**
   * **2022.06.26. ~ 2022.07.21. Ilsan Daejin Highschool Mentorship Program Road to Universe 2nd as AI/IT Mentor.**
-  * **2021.11.27. ~  [Soongsil University](https://ssu.ac.kr/) of [AI Convergence](http://aix.ssu.ac.kr/main) as Student Representative**
+  * **2021.11.27. ~ 2022.12.02. [Soongsil University](https://ssu.ac.kr/) of [AI Convergence](https://aix.ssu.ac.kr/main) as Student Representative**
   * **2019.08.24. ~ 2021.02.28. [Ilsan Daejin High School](https://isdj.hs.kr/) 3-7 as Class President.**
   * **2017.02.18. ~ 2019.04.07. [Goyang Youth Orchestra](http://www.gyyouthorchestra.com/orchestra/) as 2nd Violinist.**
   * **2019.03.04. ~ 2020.03.01. 현세 Robotics Club as Vice President.**
@@ -23,6 +25,7 @@
        - **[Startup Convergence](https://startup.ssu.ac.kr/)**
        - **Artificial Intelligence Semiconductor**
        - **Artificial Intelligence Mobility**
+  * **Completed [Soongsil University FLEX MATH Startup Academy](https://startupclass.kr/) in 2023.**
   * **Completed [Soongsil University Edu-Up Academy](https://startupclass.kr/) in 2021.**
   * **Completed [2021 iGEM VCL(Venture Creation Labs)](https://blog.igem.org/blog/2021/5/15/the-igem-epic-2021-venture-creation-labs).**
   * **Graduated SW Education Course in Technology Convergence School of [Ilsan Daejin High School](https://isdj.hs.kr/) in 2021.**
@@ -200,9 +203,10 @@
    <b>2022</b>
   </summary>
 
-  * **Hwaseong Award (2nd Place) in KICS Winter Conference 2022 Smart City Idea Competition**
+    * **Excellence Award (2nd Place) in 2022 Pre-Startup Start-up Competition from Soongsil University.**
   * **Selected in 2022 Soongsil University Pre-Startup Team.**
-  * **Excellence Award(2nd Place) in 2022 Pre-Startup Start-up Competition from Soongsil University.**
+  * **Excellence Award (1st Place) Global Startup Development Program.**
+  * **Hwaseong Award (2nd Place) in KICS Winter Conference 2022 Smart City Idea Competition.**
  </details>
 
  <details>
@@ -240,6 +244,7 @@
 
 ## Contact📱
   [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010960865612)
+  [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mingyu-kim-900161251/)
   [![image](https://img.shields.io/badge/Instagram(EN)-@mingyu__0220-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mingyu_0220)
   [![image](https://img.shields.io/badge/Instagram(KO)-@mgkim0220-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mgkim0220)
   ![image](https://img.shields.io/badge/Discord-App__lication0220%235578-5865F2?style=for-the-badge&logo=discord&logoColor=white)
