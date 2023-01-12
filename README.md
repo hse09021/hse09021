@@ -5,10 +5,10 @@
   * **2020.10.29. ~ 2022.01.31. [Syncorbis Inc.](https://syncorbis.com/) as SW Engineer.**
 
 ## Other Career Experience 🔍
-  * **2023.12.23. ~ [Soongsil University](https://ssu.ac.kr/) as Director of Facilities Management.**
+  * **2023.12.23. ~ [Soongsil University](https://ssu.ac.kr/) [Student Council](https://stu.ssu.ac.kr/) as Director of Facilities Management.**
   * **2022.11.14. ~ [Soongsil University](https://ssu.ac.kr/) of [Next Generation Semiconductor Innovation Sharing University](https://disu.ac.kr) as Software Engineer.**
   * **2022.06.26. ~ 2022.07.21. Ilsan Daejin Highschool Mentorship Program Road to Universe 2nd as AI/IT Mentor.**
-  * **2021.11.27. ~ 2022.12.02. [Soongsil University](https://ssu.ac.kr/) of [AI Convergence](https://aix.ssu.ac.kr/main) as Student Representative**
+  * **2021.11.27. ~ 2022.12.02. [Soongsil University](https://ssu.ac.kr/) [Student Council](https://stu.ssu.ac.kr/) as Student Representative of [AI Convergence](https://aix.ssu.ac.kr/main)**
   * **2019.08.24. ~ 2021.02.28. [Ilsan Daejin High School](https://isdj.hs.kr/) 3-7 as Class President.**
   * **2017.02.18. ~ 2019.04.07. [Goyang Youth Orchestra](http://www.gyyouthorchestra.com/orchestra/) as 2nd Violinist.**
   * **2019.03.04. ~ 2020.03.01. 현세 Robotics Club as Vice President.**
