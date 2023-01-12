@@ -25,7 +25,7 @@
        - **[Startup Convergence](https://startup.ssu.ac.kr/)**
        - **Artificial Intelligence Semiconductor**
        - **Artificial Intelligence Mobility**
-  * **Completed [Soongsil University FLEX MATH Startup Academy](https://startupclass.kr/) in 2023.**
+  * **Completed [Soongsil University FLEX MATH Startup Academy](http://www.funmath.net/) in 2023.**
   * **Completed [Soongsil University Edu-Up Academy](https://startupclass.kr/) in 2021.**
   * **Completed [2021 iGEM VCL(Venture Creation Labs)](https://blog.igem.org/blog/2021/5/15/the-igem-epic-2021-venture-creation-labs).**
   * **Graduated SW Education Course in Technology Convergence School of [Ilsan Daejin High School](https://isdj.hs.kr/) in 2021.**
