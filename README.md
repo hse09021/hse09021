@@ -136,8 +136,8 @@
    <b>2021</b>
   </summary>
 
-  * **Excellence Award (2nd Place) in 2021 Soongsil University Engaged Learning Competition**
-  * **Excellence Award (3rd Place) in 2021 Soongsil University AI Convergence Competition.**
+  * **Excellence Award (2nd Place) in 2021 Engaged Learning Competition from Soongsil University.**
+  * **Excellence Award (3rd Place) in 2021 AI Convergence Competition from Soongsil University.**
   * **President of Korea Agency of Education, Promotion & Information Service in Food, Agriculture, Forestry & Fisheries Award (2nd Place) in Smart Farm & AI Chellange.**  
  </details>
   
@@ -148,7 +148,7 @@
   
   * **Gave a presentation in 2020 KSAS Fall Conference Organized Session.\
     Research Activity: \<Design of Cansat with Landing Direction Control System\>**
-  * **President of Korea Aerospace Research Institute Award (3rd Place) in 2020 CanSat Competition from KAIST High School Session.**
+  * **President of Korea Aerospace Research Institute Award (3rd Place) in 2020 CanSat Competition High School Session from KAIST.**
   * **Participated in 2020 IBM Call for Code Korea Hackathon.**
  </details>
   
@@ -157,7 +157,7 @@
    <b>2019</b>
   </summary>
 
-  * **Grand Prize (1st Place) in 2019 Korea University Secondary School SW Competition.**
+  * **Grand Prize (1st Place) in 2019 Secondary School SW Competition from  Korea University.**
   * **Member of National Assembly Award in 10th Creative Maker’s Field 3D Printing & SW Application Ideathon of The Age of 4th Industrial Revolution.**
   * **Bronze Medal in 4th National High School Software Club Competition from KAIST.**
   * **Top 30 Finalist in 1st Korea Code Fair SW Contest.**
@@ -175,7 +175,7 @@
   * **President of Korea 3D Printing Service Association Award in 8th Creative Maker’s Field SW Application Competition of The Age of 4th Industrial Revolution.**
   * **Participated in 2018 Maker Project Club Supporting Project\
     Research Activity: \<Patient-Tailored Recycled Fidget Toys for Stroke Patients\>**
-  * **Encouragement Award (4th Place) in 2018 Highschool SW Hackathon from Sejong University.**
+  * **Encouragement Award (4th Place) in 2018 Sejong University Highschool SW Hackathon.**
  </details>
 
  <details>
@@ -204,8 +204,8 @@
   </summary>
 
   * **Excellence Award (2nd Place) in 2022 Pre-Startup Start-up Competition from Soongsil University.**
-  * **Selected in 2022 Soongsil University Pre-Startup Team.**
-  * **Excellence Award (1st Place) Global Startup Development Program.**
+  * **Selected in 2022 Pre-Startup Team from Soongsil University.**
+  * **Excellence Award (1st Place) Global Startup Development Program from Soongsil University.**
   * **Hwaseong Award (2nd Place) in KICS Winter Conference 2022 Smart City Idea Competition.**
  </details>
 
@@ -214,15 +214,15 @@
    <b>2021</b>
   </summary>
 
-  * **1st Place in 2021 Korea University X-Garage Demo Day.**
+  * **1st Place in 2021 X-Garage Demo Day from Korea University.**
   * **Participated in K-Startup 2021 U300 Competition.**
   * **President of Korea Association of Industry, Academy and Research Institute Award (4th Place) in 2021 Venture Start-up Competition from Seoul National University of Science and Technology.**
-  * **Selected in Korea University 10th Startup Campus Town Entry Competition.**
-  * **Selected in 2021 Korea University X-Garage Maintenance Program.**
+  * **Selected in 10th Startup Campus Town Entry Competition from Korea University.**
+  * **Selected in 2021 X-Garage Maintenance Program from Korea University.**
   * **Excellence Award (3rd Place) in 2021 Global Venture School & Hackathon Competition from Soongsil University.**
-  * **Selected in 2021 Soongsil University Pre-Startup Team.**
-  * **Selected in 1st 10X Program Future Group Track.**
-  * **Selected in 2021 SW Maestro Sustainable Growth Support Project.**
+  * **Selected in 2021 Pre-Startup Team from Soongsil University.**
+  * **Selected in 1st 10X Program Future Group Track from StartupX.**
+  * **Selected in 2021 SW Maestro Sustainable Growth Support Project from The Federation of Korean Information Industries.**
  </details>
 
  <details>
@@ -230,7 +230,7 @@
    <b>2020</b>
   </summary>
 
-  * **1st Place in 2020 Korea University X-Garage Demo Day.**
+  * **1st Place in 2020 X-Garage Demo Day from Korea University.**
   * **Patent "Fire Guidance System" (Application No. 10-2150228-0000)**
  </details>
 
