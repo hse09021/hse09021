@@ -126,7 +126,7 @@
 
    * **Gave a presentation in IJCGM2018 Junior High & High School Scientist Workshop Session.\
      Research Activity: \<SW Convergence Learning Diocese for Student Participation-oriented Classes for Understanding Genetic Expression Process\>**
-   * **Participated in 36th Gyeonggi-do Youth Science Exploration Contest (Convergence Science).**
+   * **Creative Convergence Award in 36th Gyeonggi-do Youth Science Exploration Contest (Convergence Science).**
    * **Participated in 36th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Convergence Science).**
   </details>
  
