@@ -200,10 +200,18 @@
 ## Invention & Startup Career 💡
  <details>
   <summary>
+   <b>2023</b>
+  </summary>
+
+  * **Excellence Award (1st Place) in [Soongsil University FLEX MATH Startup Academy Pre-Startup Competition](http://www.funmath.net/) in 2023.**
+ </details>
+  
+ <details>
+  <summary>
    <b>2022</b>
   </summary>
 
-  * **Excellence Award (2nd Place) in 2022 Pre-Startup Start-up Competition from Soongsil University.**
+  * **Excellence Award (2nd Place) in 2022 Pre-Startup Startup Competition from Soongsil University.**
   * **Selected in 2022 Pre-Startup Team from Soongsil University.**
   * **Excellence Award (1st Place) Global Startup Development Program from Soongsil University.**
   * **Hwaseong Award (2nd Place) in KICS Winter Conference 2022 Smart City Idea Competition.**
