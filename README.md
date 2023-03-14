@@ -47,7 +47,7 @@
    ### Computer Languages 💻
    [![image](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
    [![image](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
-   [![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
+   [![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/ko-kr/dotnet/csharp/)
    [![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
    ![image](https://img.shields.io/badge/SQL-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white)
    [![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/html)
@@ -55,6 +55,7 @@
    [![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript)
    [![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
    [![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/guides)
+   [![image](https://img.shields.io/badge/Visual%20Basic-007ACC?style=for-the-badge&logo=visualstudio&logoColor=wite)](https://learn.microsoft.com/ko-kr/dotnet/visual-basic/)
    
    ### Libararies & Frameworks 📚
    [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/reference/)
