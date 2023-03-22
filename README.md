@@ -55,7 +55,7 @@
    [![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/docs/Web/JavaScript)
    [![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
    [![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/guides)
-   [![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+   [![image](https://img.shields.io/badge/Shell_Script-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://devdocs.io/bash/)
    [![image](https://img.shields.io/badge/Visual%20Basic-007ACC?style=for-the-badge&logo=visualstudio&logoColor=wite)](https://learn.microsoft.com/ko-kr/dotnet/visual-basic/)
    
    ### Libararies & Frameworks 📚
