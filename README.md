@@ -61,7 +61,7 @@
    ### Libararies & Frameworks 📚
    [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/reference/)
    [![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://docs.microsoft.com/dotnet/)
-   [![image](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=white)](https://docs.unity3d.com/Manual/index.html)
+   [![image](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)](https://docs.unity3d.com/Manual/index.html)
    [![image](https://img.shields.io/badge/WinForm-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://docs.microsoft.com/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2022)
    [![image](https://img.shields.io/badge/WinUI3-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://docs.microsoft.com/windows/apps/winui/winui3/)
    [![image](https://img.shields.io/badge/BeautifulSoup4-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
