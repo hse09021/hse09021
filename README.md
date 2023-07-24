@@ -266,7 +266,7 @@
 
 ## Contact📱
   [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010960865612)
-  [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mingyu-kim-900161251/)
+  [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hse09021/)
   [![image](https://img.shields.io/badge/Instagram(EN)-@mingyu__0220-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mingyu_0220)
   [![image](https://img.shields.io/badge/Instagram(KO)-@mgkim0220-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mgkim0220)
   ![image](https://img.shields.io/badge/Discord-App__lication0220%235578-5865F2?style=for-the-badge&logo=discord&logoColor=white)
