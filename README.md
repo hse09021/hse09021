@@ -1,10 +1,10 @@
-### My Status 📢
+# My Status 📢
  > **RESTART**
 
-## Work Experience 👓
+# Work Experience 👓
   * **2020.10.29. ~ 2022.01.31. [Syncorbis Inc.](https://syncorbis.com/) as SW Engineer.**
 
-## Other Career Experience 🔍
+# Other Career Experience 🔍
   * **2022.12.23. ~ [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) as Director of Facilities Management.**
   * **2022.11.14. ~ [Soongsil University](https://ssu.ac.kr/) of [Next Generation Semiconductor Innovation Sharing University](https://disu.ac.kr) as Software Engineer.**
   * **2022.06.26. ~ 2022.07.21. Ilsan Daejin Highschool Mentorship Program Road to Universe 2nd as AI/IT Mentor.**
@@ -17,7 +17,7 @@
   * **2014.08.28. ~ 2016.05.20. Cheyenne Middle School Orchestra as Violinist.**
   * **2014 ~ 2015 [Cheyenne Middle School Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/).**
 
-## Education and Training 🎓
+# Education and Training 🎓
   * **Studying in [Soongsil University](https://ssu.ac.kr/) since 2021.**
      - **Major: [AI Convergence](http://aix.ssu.ac.kr/main)**
      - **Intensive Major: [Next Generation Semiconductor(System SW)](https://semicon.disu.ac.kr/)**
@@ -34,7 +34,7 @@
   * **Studied in [Cheyenne Middle School](https://cheyenne.edmondschools.net/) as 6th ~ 7th Grade in 2014.08.28. ~ 2016.05.20.**
   * **Graduated in [John Ross Elementary School](https://johnross.edmondschools.net/) in 2014.**
 
-## Club Activities 🚩
+# Club Activities 🚩
   * **1st Member of AIX Developer Team in Soongsil University, AI Convergence**
   * **1st Member of MAKERS SW Project Club in Soongsil University, AI Convergence**
   * **6th Member of Kaleido Game & VR/AR Content Development Club in Soongsil University, College of Information Technology**
@@ -43,7 +43,7 @@
   * **4th Member of 현세 Robotics Club in Ilsan Daejin High School**
   * **1st Member of [TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/) in Cheyenne Middle School**
 
-## Abilties ❗
+# Abilties ❗
    ### Computer Languages 💻
    [![image](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
    [![image](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
@@ -101,7 +101,7 @@
   #### Embedded
   [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/main/docs)
   [![image](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/documentation/)
-  #### Operation System
+  #### Operating System
   [![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/doc/html/latest/)
   [![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://help.ubuntu.com/)
   #### DevOps
@@ -112,7 +112,7 @@
   [![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
   [![image](https://img.shields.io/badge/Kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white)](https://i.kakao.com/docs/)
 
-## Natural Science Career 🔬
+# Natural Science Career 🔬
  <details>
   <summary>
    <b>2020</b>
@@ -144,7 +144,7 @@
    * **Participated in 36th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Convergence Science).**
   </details>
  
-## Engineering Career 🛠️
+# Engineering Career 🛠️
  <details>
   <summary>
    <b>2021</b>
@@ -211,7 +211,7 @@
   * **3rd Place in 2015-2016 TSA Oklahoma State Conference Vex IQ Robotics Excellence Award.**
  </details>
 
-## Invention & Startup Career 💡
+# Invention & Startup Career 💡
  <details>
   <summary>
    <b>2023</b>
@@ -264,7 +264,7 @@
   * **2015-2016 TSA Oklahoma State Conference Promotional Marketing 2nd.**
  </details>
 
-## Contact📱
+# Contact📱
   [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010960865612)
   [![image](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hse09021/)
   [![image](https://img.shields.io/badge/Instagram(EN)-@mingyu__0220-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mingyu_0220)
