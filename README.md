@@ -117,10 +117,13 @@
   <summary>
    <b>2020</b>
   </summary>
+  
+   🎖️ **`Best Poster Award in ICGSK2020-APCC7 E-Poster Session.`**
+   > **Research Activity: \<DNA Music, Composing Biological Music via AI Programming\>**
 
-   * **Best Poster Award in ICGSK2020-APCC7 E-Poster Session.\
-     Research Activity: <DNA Music, Composing Biological Music via AI Programming>**
-   * **Participated in KAIST YOUTH Scientist Camp of 2019 2nd Semester.**
+   ✔ **`Participated in KAIST YOUTH Scientist Camp of 2019 2nd Semester.`**
+   > **Project Activity: \<Rule-Based Smart Speaker Chatbot\>**
+
  </details>
 
  <details>
@@ -128,9 +131,12 @@
    <b>2019</b>
   </summary>
 
-   * **Gave a presentation in ICGSK2019 Next Generation Session.\
-     Research Activity: \<Musicalization of DNA Using Python\>**
-   * **Participated in 37th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Convergence Science).**
+   🎙 **`Gave a presentation in ICGSK2019 Next Generation Session.`**
+   > **Research Activity: \<Musicalization of DNA Using Python\>**
+   
+   ✔ **`Participated in 37th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Convergence Science).`**
+   > 
+
   </details>
 
  <details>
@@ -138,10 +144,15 @@
    <b>2018</b>
   </summary>
 
-   * **Gave a presentation in IJCGM2018 Junior High & High School Scientist Workshop Session.\
-     Research Activity: \<SW Convergence Learning Diocese for Student Participation-oriented Classes for Understanding Genetic Expression Process\>**
-   * **Creative Convergence Award in 36th Gyeonggi-do Youth Science Exploration Contest (Convergence Science).**
-   * **Participated in 36th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Convergence Science).**
+   🎙 **`Gave a presentation in IJCGM2018 Junior High & High School Scientist Workshop Session.`**
+   > **Research Activity: \<SW Convergence Learning Diocese for Student Participation-oriented Classes for Understanding Genetic Expression Process\>**
+   
+   🏅 **`Creative Convergence Award [4th Place] in 36th Gyeonggi-do Youth Science Exploration Contest (Convergence Science).`**
+   > 
+
+   ✔ **`Participated in 36th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Convergence Science).`**
+   > 
+
   </details>
  
 # Engineering Career 🛠️
@@ -150,9 +161,15 @@
    <b>2021</b>
   </summary>
 
-  * **Excellence Award (2nd Place) in 2021 Engaged Learning Competition from Soongsil University.**
-  * **Excellence Award (3rd Place) in 2021 AI Convergence Competition from Soongsil University.**
-  * **President of Korea Agency of Education, Promotion & Information Service in Food, Agriculture, Forestry & Fisheries Award (2nd Place) in Smart Farm & AI Chellange.**  
+   🥈 **`Excellence Award [2nd Place] in 2021 Engaged Learning Competition from Soongsil University.`**
+   > **Project Activity: \<Cloud Based Modular Smart Farm Tower\>**
+   
+   🥉 **`Excellence Award [3rd Place] in 2021 AI Convergence Competition from Soongsil University.`**
+   > **Project Activity: \<Computer Vision Based Garbage Recycling System\>**
+   
+   🥈 **`President of Korea Agency of Education, Promotion & Information Service in Food, Agriculture, Forestry & Fisheries Award [2nd Place] in Smart Farm & AI Chellange.`**
+   > **Project Activity: \<Cow Smart Mangaement\>** | [News](https://scatch.ssu.ac.kr/뉴스센터/주요뉴스/?slug=컴퓨터-동아리-sscc-2021-스마트농업-인공지능-경진대회서)
+   
  </details>
   
  <details>
@@ -160,10 +177,15 @@
    <b>2020</b>
   </summary>
   
-  * **Gave a presentation in 2020 KSAS Fall Conference Organized Session.\
-    Research Activity: \<Design of Cansat with Landing Direction Control System\>**
-  * **President of Korea Aerospace Research Institute Award (3rd Place) in 2020 CanSat Competition High School Session from KAIST.**
-  * **Participated in 2020 IBM Call for Code Korea Hackathon.**
+   🎙 **`Gave a presentation in 2020 KSAS Fall Conference Organized Session.`**
+   > **Research Activity: \<Design of Cansat with Landing Direction Control System\>** | [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10526062)
+
+   🥉 **`President of Korea Aerospace Research Institute Award [3rd Place] in 2020 CanSat Competition High School Session from KAIST.`**
+   > **Research Activity: \<Design of Cansat with Landing Direction Control System\>**
+
+   ✔ **`Participated in 2020 IBM Call for Code Korea Hackathon.`**
+   > **Project Activity: \<Cloud Based Modular Smart Farm Tower\>**
+
  </details>
   
  <details>
@@ -171,14 +193,30 @@
    <b>2019</b>
   </summary>
 
-  * **Grand Prize (1st Place) in 2019 Secondary School SW Competition from  Korea University.**
-  * **Member of National Assembly Award in 10th Creative Maker’s Field 3D Printing & SW Application Ideathon of The Age of 4th Industrial Revolution.**
-  * **Bronze Medal in 4th National High School Software Club Competition from KAIST.**
-  * **Top 30 Finalist in 1st Korea Code Fair SW Contest.**
-  * **Top 16 Finalist in 5th Samsung Junior SW Cup.**
-  * **President of Science, ICT, Broadcasting, and Communications Committee Award in 9th Creative Maker’s Field SW Application Idea Competition of The Age of 4th Industrial Revolution.**
-  * **President of Korea 3D Printing Service Association Award in 9th Creative Maker’s Field SW Application Idea Competition of The Age of 4th Industrial Revolution.**
-  * **Think Award (3rd Place) in World Robot Olympiad 2019 Korea Competition High School Creative Session.**
+   🥇 **`Grand Prize [1st Place] in 2019 Secondary School SW Competition from  Korea University.`**
+   > **Project Activity: \<Indoor Fire Delay System via Air Conditioner\>**
+
+   🎖️ **`Member of National Assembly Award in 10th Creative Maker’s Field 3D Printing & SW Application Ideathon of The Age of 4th Industrial Revolution.`**
+   > **Project Activity: \<Smart Bus Station\>**
+
+   🥉 **`Bronze Medal [3rd Place] in 4th National High School Software Club Competition from KAIST.`**
+   > **Project Activity: \<COD Delivery Approval System\>**
+
+   🏅 **`Top 30 Finalist in 1st Korea Code Fair SW Contest.`**
+   > **Project Activity: \<Indoor Fire Delay System via Air Conditioner\>**
+
+   🏅 **`Top 16 Finalist in 5th Samsung Junior SW Cup.`**
+   > **Project Activity: \<SAVE SAFE, Voice Recognition Based Emergency Reporting Application\>**
+
+   🎖️ **`President of Science, ICT, Broadcasting, and Communications Committee Award in 9th Creative Maker’s Field SW Application Idea Competition of The Age of 4th Industrial Revolution.`**
+   > **Project Activity: \<Light Road, Smart LED Road Guidence System\>**
+
+   🎖️ **`President of Korea 3D Printing Service Association Award in 9th Creative Maker’s Field SW Application Idea Competition of The Age of 4th Industrial Revolution.`**
+   > **Project Activity: \<Golden Hour, Smart Car Accident Reporting System\>**
+
+   🥉 **`Think Award [3rd Place] in World Robot Olympiad 2019 Korea Competition High School Creative Session.`**
+   > **Project Activity: \<Document Classification Robot\>**
+
  </details>
   
  <details>
@@ -186,10 +224,15 @@
    <b>2018</b>
   </summary>
 
-  * **President of Korea 3D Printing Service Association Award in 8th Creative Maker’s Field SW Application Competition of The Age of 4th Industrial Revolution.**
-  * **Participated in 2018 Maker Project Club Supporting Project\
-    Research Activity: \<Patient-Tailored Recycled Fidget Toys for Stroke Patients\>**
-  * **Encouragement Award (4th Place) in 2018 Sejong University Highschool SW Hackathon.**
+   🎖️ **`President of Korea 3D Printing Service Association Award in 8th Creative Maker’s Field SW Application Competition of The Age of 4th Industrial Revolution.`**
+   > **Project Activity: \<Fidget Toy for Elders\>**
+
+   ✔ **`Participated in 2018 Maker Project Club Supporting Project`**
+   > **Research Activity: \<Patient-Tailored Recycled Fidget Toys for Stroke Patients\>**
+
+   🏅 **`Encouragement Award [4th Place] in 2018 Sejong University Highschool SW Hackathon.`**
+   > **Project Activity: \<Unmanned Emergency Helicopter System for Rapid Patient Transfer\>**
+
  </details>
 
  <details>
@@ -197,7 +240,9 @@
    <b>2017</b>
   </summary>
 
-  * **Participated in 35th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Mechenical Engineering).**
+   ✔ **`Participated in 35th Gyeonggi-do Youth Science Exploration Contest Goyang Regional Competition (Mechenical Engineering).`**
+   >
+
  </details>
 
  <details>
@@ -205,10 +250,18 @@
    <b>2016</b>
   </summary>
 
-  * **1st Place 2015-2016 TSA Oklahoma State Conference VEX IQ Robotics Driving Skill Challenge.**
-  * **2nd Place 2015-2016 TSA Oklahoma State Conference VEX IQ Robotics Programming Skill Challenge.**
-  * **2nd Place in 2015-2016 TSA Oklahoma State Conference System Control Technology.**
-  * **3rd Place in 2015-2016 TSA Oklahoma State Conference Vex IQ Robotics Excellence Award.**
+   🥇 **`[1st Place] in 2015-2016 TSA Oklahoma State Conference VEX IQ Robotics Driving Skill Challenge.`**
+   >
+
+   🥈 **`[2nd Place] in 2015-2016 TSA Oklahoma State Conference VEX IQ Robotics Programming Skill Challenge.`**
+   >
+
+   🥈 **`[2nd Place] in 2015-2016 TSA Oklahoma State Conference System Control Technology.`**
+   >
+
+   🥉 **`[3rd Place] in 2015-2016 TSA Oklahoma State Conference Vex IQ Robotics Excellence Award.`**
+   >
+
  </details>
 
 # Invention & Startup Career 💡
@@ -217,7 +270,9 @@
    <b>2023</b>
   </summary>
 
-  * **Excellence Award (1st Place) in [Soongsil University FLEX MATH Startup Academy Pre-Startup Competition](http://www.funmath.net/) in 2023.**
+   🥇 **`Excellence Award [1st Place] in Soongsil University FLEX MATH Startup Academy Pre-Startup Competition in 2023.`**
+   >
+
  </details>
   
  <details>
@@ -225,10 +280,18 @@
    <b>2022</b>
   </summary>
 
-  * **Excellence Award (2nd Place) in 2022 Pre-Startup Startup Competition from Soongsil University.**
-  * **Selected in 2022 Pre-Startup Team from Soongsil University.**
-  * **Excellence Award (1st Place) Global Startup Development Program from Soongsil University.**
-  * **Hwaseong Award (2nd Place) in KICS Winter Conference 2022 Smart City Idea Competition.**
+   🥈 **`Excellence Award [2nd Place] in 2022 Pre-Startup Startup Competition from Soongsil University.`**
+   >
+
+   ✔ **`Selected in 2022 Pre-Startup Team from Soongsil University.`**
+   >
+
+   🥇 **`Excellence Award [1st Place] Global Startup Development Program from Soongsil University.`**
+   >
+
+   🥈 **`Hwaseong Award [2nd Place] in KICS Winter Conference 2022 Smart City Idea Competition.`**
+   >
+
  </details>
 
  <details>
@@ -236,15 +299,33 @@
    <b>2021</b>
   </summary>
 
-  * **1st Place in 2021 X-Garage Demo Day from Korea University.**
-  * **Participated in K-Startup 2021 U300 Competition.**
-  * **President of Korea Association of Industry, Academy and Research Institute Award (4th Place) in 2021 Venture Start-up Competition from Seoul National University of Science and Technology.**
-  * **Selected in 10th Startup Campus Town Entry Competition from Korea University.**
-  * **Selected in 2021 X-Garage Maintenance Program from Korea University.**
-  * **Excellence Award (3rd Place) in 2021 Global Venture School & Hackathon Competition from Soongsil University.**
-  * **Selected in 2021 Pre-Startup Team from Soongsil University.**
-  * **Selected in 1st 10X Program Future Group Track from StartupX.**
-  * **Selected in 2021 SW Maestro Sustainable Growth Support Project from The Federation of Korean Information Industries.**
+   🥇 **`[1st Place] in 2021 X-Garage Demo Day from Korea University.`**
+   >
+
+   ✔ **`Participated in K-Startup 2021 U300 Competition.`**
+   >
+
+   🏅 **`President of Korea Association of Industry, Academy and Research Institute Award [4th Place] in 2021 Venture Start-up Competition from Seoul National University of Science and Technology.`**
+   >
+
+   ✔ **`Selected in 10th Startup Campus Town Entry Competition from Korea University.`**
+   >
+
+   ✔ **`Selected in 2021 X-Garage Maintenance Program from Korea University.`**
+   >
+
+   🥉 **`Excellence Award [3rd Place] in 2021 Global Venture School & Hackathon Competition from Soongsil University.`**
+   >
+
+   ✔ **`Selected in 2021 Pre-Startup Team from Soongsil University.`**
+   >
+
+   ✔ **`Selected in 1st 10X Program Future Group Track from StartupX.`**
+   >
+
+   ✔ **`Selected in 2021 SW Maestro Sustainable Growth Support Project from The Federation of Korean Information Industries.`**
+   >
+
  </details>
 
  <details>
@@ -252,8 +333,12 @@
    <b>2020</b>
   </summary>
 
-  * **1st Place in 2020 X-Garage Demo Day from Korea University.**
-  * **Patent "Fire Guidance System" (Application No. 10-2150228-0000)**
+   🥇 **`[1st Place] in 2020 X-Garage Demo Day from Korea University.`**
+   >
+
+   📄 **`Patent "Fire Guidance System"`**
+   > **Application No. 10-2150228-0000**
+
  </details>
 
  <details>
@@ -261,7 +346,9 @@
    <b>2016</b>
   </summary>
 
-  * **2015-2016 TSA Oklahoma State Conference Promotional Marketing 2nd.**
+   🥈 **`[2nd Place] in 2015-2016 TSA Oklahoma State Conference Promotional Marketing.`**
+   >
+
  </details>
 
 # Contact📱
@@ -272,18 +359,3 @@
   ![image](https://img.shields.io/badge/Discord-App__lication0220%235578-5865F2?style=for-the-badge&logo=discord&logoColor=white)
   ![image](https://img.shields.io/badge/Xbox-Application0220-107C10?style=for-the-badge&logo=xbox&logoColor=white)
   ![image](https://img.shields.io/badge/Steam-App__lication0220-000000?style=for-the-badge&logo=steam&logoColor=white)
-
-<!--
-**hse09021/hse09021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
