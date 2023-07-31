@@ -98,10 +98,14 @@
   [![image](https://img.shields.io/badge/Rainmeter-19519B?style=for-the-badge&logo=rainmeter&logoColor=white)](https://docs.rainmeter.net/) 
   #### Office
   [![image](https://img.shields.io/badge/Microsoft_Office365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)](https://www.microsoft.com/microsoft-365)
+  [![image](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com/)
+  [![image](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)](https://www.libreoffice.org/)
   #### Embedded
   [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/main/docs)
   [![image](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/documentation/)
   [![image](https://img.shields.io/badge/Nvidia_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://docs.nvidia.com/jetson/)
+  #### Server
+  [![image](https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=white)](https://www.synology.com/)
   #### Operating System
   [![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/doc/html/latest/)
   [![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://help.ubuntu.com/)
@@ -112,6 +116,13 @@
   #### Chatbot
   [![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
   [![image](https://img.shields.io/badge/Kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white)](https://i.kakao.com/docs/)
+  #### Virtual Machine
+  [![image](https://img.shields.io/badge/Putty-000000?style=for-the-badge&logo=putty&logoColor=white)](https://www.putty.org/)
+  [![image](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
+  [![image](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.google/)
+  [![image](https://img.shields.io/badge/PaperSpace-000000?style=for-the-badge&logo=paperspace&logoColor=white)](https://www.paperspace.com/)
+
+  
 
 # Natural Science Career 🔬
  <details>
