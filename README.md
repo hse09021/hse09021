@@ -101,6 +101,7 @@
   #### Embedded
   [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/main/docs)
   [![image](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/documentation/)
+  [![image](https://img.shields.io/badge/Nvidia_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://docs.nvidia.com/jetson/)
   #### Operating System
   [![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/doc/html/latest/)
   [![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://help.ubuntu.com/)
