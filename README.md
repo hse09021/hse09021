@@ -37,7 +37,7 @@
   > Violinist
   
   🗂️ 2014-2015 [Cheyenne Middle School Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/)
-  > test
+  >
 
 ## Education and Training ✍️
    📖 **Studying in [Soongsil University](https://ssu.ac.kr/) since 2021.**
