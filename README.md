@@ -114,12 +114,11 @@
    [![image](https://img.shields.io/badge/INI%20for%20Rainmeter-19519B?style=for-the-badge&logo=rainmeter&logoColor=white)](https://docs.rainmeter.net/)
 
   ### Reallife Languages 💬
-    * Native in 한국어(Korean)
-    * Fluent in English
-    * Little in Español(Spanish)
-    * Little in 汉语(Mandarin)
-    * Little in 日本語(Japanese)
-    * Can speak some words in Pусский(Russian)
+    - Native in 한국어(Korean)
+    - Fluent in English
+    - Little in Español(Spanish)
+    - Little in 汉语(Mandarin)
+    - Little in 日本語(Japanese)
 
   ### Available Program 🖥️
   #### 3D Modeling
