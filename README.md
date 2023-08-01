@@ -1,49 +1,65 @@
-# My Status 📢
+## My Status 📢
  > **RESTART**
 
-# Work Experience 👓
-  * **2020.10.29. ~ 2022.01.31. [Syncorbis Inc.](https://syncorbis.com/) as SW Engineer.**
+## Work Experience 👓
+  * 2020.10.29. ~ 2022.01.31. [Syncorbis Inc.](https://syncorbis.com/) as SW Engineer.
 
-# Other Career Experience 🔍
-  * **2022.12.23. ~ [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) as Director of Facilities Management.**
-  * **2022.11.14. ~ [Soongsil University](https://ssu.ac.kr/) of [Next Generation Semiconductor Innovation Sharing University](https://disu.ac.kr) as Software Engineer.**
-  * **2022.06.26. ~ 2022.07.21. Ilsan Daejin Highschool Mentorship Program [Road to Universe](https://timedream.modoo.at/?link=duthcyv9) 2nd as AI/IT Mentor.**
-  * **2021.11.27. ~ 2022.12.02. [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) as Student Representative of [AI Convergence](https://aix.ssu.ac.kr/main).**
-  * **2019.08.24. ~ 2021.02.28. [Ilsan Daejin High School](https://isdj.hs.kr/) 3-7 as Class President.**
-  * **2017.02.18. ~ 2019.04.07. [Goyang Youth Orchestra](http://www.gyyouthorchestra.com/orchestra/) as 2nd Violinist.**
-  * **2019.03.04. ~ 2020.03.01. 현세 Robotics Club as Vice President.**
-  * **2015.09.22. ~ 2016.05.18. [Cheyenne Middle School TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/) as President.**
-  * **2015 ~ 2016 [North Central Honor Orchestra](https://cheyenne.edmondschools.net/2015/10/05/ncho2015/) as 2nd Violinist.**
-  * **2014.08.28. ~ 2016.05.20. Cheyenne Middle School Orchestra as Violinist.**
-  * **2014 ~ 2015 [Cheyenne Middle School Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/).**
+## Other Career Experience 🔍
+  * 2022.12.23. ~ [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) as Director of Facilities Management.
+  * 2022.11.14. ~ [Soongsil University](https://ssu.ac.kr/) of [Next Generation Semiconductor Innovation Sharing University](https://disu.ac.kr) as Software Engineer.
+  * 2022.06.26. ~ 2022.07.21. Ilsan Daejin Highschool Mentorship Program [Road to Universe](https://timedream.modoo.at/?link=duthcyv9) 2nd as AI/IT Mentor.
+  * 2021.11.27. ~ 2022.12.02. [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) as Student Representative of [AI Convergence](https://aix.ssu.ac.kr/main).
+  * 2019.08.24. ~ 2021.02.28. [Ilsan Daejin High School](https://isdj.hs.kr/) 3-7 as Class President.
+  * 2017.02.18. ~ 2019.04.07. [Goyang Youth Orchestra](http://www.gyyouthorchestra.com/orchestra/) as 2nd Violinist.
+  * 2019.03.04. ~ 2020.03.01. 현세 Robotics Club as Vice President.
+  * 2015.09.22. ~ 2016.05.18. [Cheyenne Middle School TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/) as President.
+  * 2015 ~ 2016 [North Central Honor Orchestra](https://cheyenne.edmondschools.net/2015/10/05/ncho2015/) as 2nd Violinist.
+  * 2014.08.28. ~ 2016.05.20. Cheyenne Middle School Orchestra as Violinist.
+  * 2014 ~ 2015 [Cheyenne Middle School Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/).
 
-# Education and Training 🎓
-  * **Studying in [Soongsil University](https://ssu.ac.kr/) since 2021.**
-     - **Major: [AI Convergence](http://aix.ssu.ac.kr/main)**
-     - **Intensive Major: [Next Generation Semiconductor(System SW)](https://semicon.disu.ac.kr/)**
-     - **Convergence Major:**
-       - **[Startup Convergence](https://startup.ssu.ac.kr/)**
-       - **Artificial Intelligence Semiconductor**
-       - **Artificial Intelligence Mobility**
-  * **Completed [Soongsil University FLEX MATH Startup Academy](http://www.funmath.net/) in 2023.**
-  * **Completed [Soongsil University Edu-Up Academy](https://startupclass.kr/) in 2021.**
-  * **Completed [2021 iGEM VCL(Venture Creation Labs)](https://blog.igem.org/blog/2021/5/15/the-igem-epic-2021-venture-creation-labs).**
-  * **Graduated SW Education Course in Technology Convergence School of [Ilsan Daejin High School](https://isdj.hs.kr/) in 2021.**
-  * **Completed IoT(Internet of Things) Course in [KAIST Cyber Education Course for Gifted Student](https://talented.kaist.ac.kr:8443/) in 2nd Semester of 2019.**
-  * **Graduated in [Goyang Baeksok Middle School](http://www.baeksok.ms.kr/) in 2018.**
-  * **Studied in [Cheyenne Middle School](https://cheyenne.edmondschools.net/) as 6th ~ 7th Grade in 2014.08.28. ~ 2016.05.20.**
-  * **Graduated in [John Ross Elementary School](https://johnross.edmondschools.net/) in 2014.**
+## Education and Training 🎓
+   **Studying in [Soongsil University](https://ssu.ac.kr/) since 2021.**
+   > #### Major: [AI Convergence](http://aix.ssu.ac.kr/main)  
+   > #### Intensive Major: [Next Generation Semiconductor(System SW)](https://semicon.disu.ac.kr/)  
+   > #### Convergence Major:
+   > - #### Artificial Intelligence Semiconductor
+   > - #### Artificial Intelligence Mobility
+   > - #### [Startup Convergence](https://startup.ssu.ac.kr/)
 
-# Club Activities 🚩
-  * **1st Member of AIX Developer Team in Soongsil University, AI Convergence**
-  * **1st Member of MAKERS SW Project Club in Soongsil University, AI Convergence**
-  * **6th Member of Kaleido Game & VR/AR Content Development Club in Soongsil University, College of Information Technology**
-  * **39th Member of [SSCC(Soongsil Computing Club)](https://ssccpromotion.xyz/) in Soongsil University**
-  * **25th Member of [Synergy Startup Club](https://instagram.com/ssu_synergy?igshid=YmMyMTA2M2Y=) in Soongsil University**
-  * **4th Member of 현세 Robotics Club in Ilsan Daejin High School**
-  * **1st Member of [TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/) in Cheyenne Middle School**
+   Completed [Soongsil University FLEX MATH Startup Academy](http://www.funmath.net/) in 2023.
+   > dd
+   
+   Completed [Soongsil University Edu-Up Academy](https://startupclass.kr/) in 2021.
+   > dd
+   
+   Completed [2021 iGEM VCL(Venture Creation Labs)](https://blog.igem.org/blog/2021/5/15/the-igem-epic-2021-venture-creation-labs).
+   > dd
+			
+   Graduated [Ilsan Daejin High School](https://isdj.hs.kr/) in 2021.
+   > SW Education Course in Technology Convergence School
+			
+   Completed [KAIST Cyber Education Course for Gifted Student](https://talented.kaist.ac.kr:8443/) in 2nd Semester of 2019.
+   > **Course Name: IoT(Internet of Things) Course**
+			
+   Graduated in [Goyang Baeksok Middle School](http://www.baeksok.ms.kr/) in 2018.
+			>
+			
+   Studied in [Cheyenne Middle School](https://cheyenne.edmondschools.net/) as 6th ~ 7th Grade in 2014.08.28. ~ 2016.05.20.
+			>
+			
+   Graduated in [John Ross Elementary School](https://johnross.edmondschools.net/) in 2014.
+			>
 
-# Abilties ❗
+## Club Activities 🚩
+  * 1st Member of AIX Developer Team in Soongsil University, AI Convergence**
+  * 1st Member of MAKERS SW Project Club in Soongsil University, AI Convergence**
+  * 6th Member of Kaleido Game & VR/AR Content Development Club in Soongsil University, College of Information Technology**
+  * 39th Member of [SSCC(Soongsil Computing Club)](https://ssccpromotion.xyz/) in Soongsil University**
+  * 25th Member of [Synergy Startup Club](https://instagram.com/ssu_synergy?igshid=YmMyMTA2M2Y=) in Soongsil University**
+  * 4th Member of 현세 Robotics Club in Ilsan Daejin High School**
+  * 1st Member of [TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/) in Cheyenne Middle School**
+
+## Abilties ❗
    ### Computer Languages 💻
    [![image](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
    [![image](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.ibm.com/docs/i/7.3?topic=languages-c-c)
@@ -124,7 +140,7 @@
 
   
 
-# Natural Science Career 🔬
+## Natural Science Career 🔬
  <details>
   <summary>
    <b>2020</b>
@@ -167,7 +183,7 @@
 
   </details>
  
-# Engineering Career 🛠️
+## Engineering Career 🛠️
  <details>
   <summary>
    <b>2021</b>
@@ -180,7 +196,8 @@
    > **Project Activity: \<Computer Vision Based Garbage Recycling System\>**
    
    🥈 **`President of Korea Agency of Education, Promotion & Information Service in Food, Agriculture, Forestry & Fisheries Award [2nd Place] in Smart Farm & AI Chellange.`**
-   > **Project Activity: \<Cow Smart Mangaement\>** | [News](https://scatch.ssu.ac.kr/뉴스센터/주요뉴스/?slug=컴퓨터-동아리-sscc-2021-스마트농업-인공지능-경진대회서)
+   > **Project Activity: \<Cow Smart Mangaement\>**  
+   > [News](https://scatch.ssu.ac.kr/뉴스센터/주요뉴스/?slug=컴퓨터-동아리-sscc-2021-스마트농업-인공지능-경진대회서)
    
  </details>
   
@@ -190,7 +207,8 @@
   </summary>
   
    🎙 **`Gave a presentation in 2020 KSAS Fall Conference Organized Session.`**
-   > **Research Activity: \<Design of Cansat with Landing Direction Control System\>** | [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10526062)
+   > **Research Activity: \<Design of Cansat with Landing Direction Control System\>**  
+   > [Paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10526062)
 
    🥉 **`President of Korea Aerospace Research Institute Award [3rd Place] in 2020 CanSat Competition High School Session from KAIST.`**
    > **Research Activity: \<Design of Cansat with Landing Direction Control System\>**
@@ -276,7 +294,7 @@
 
  </details>
 
-# Invention & Startup Career 💡
+## Invention & Startup Career 💡
  <details>
   <summary>
    <b>2023</b>
