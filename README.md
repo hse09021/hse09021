@@ -17,38 +17,35 @@
   * 2014.08.28. ~ 2016.05.20. Cheyenne Middle School Orchestra as Violinist.
   * 2014 ~ 2015 [Cheyenne Middle School Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/).
 
-## Education and Training 🎓
-   **Studying in [Soongsil University](https://ssu.ac.kr/) since 2021.**
-   > #### Major: [AI Convergence](http://aix.ssu.ac.kr/main)  
-   > #### Intensive Major: [Next Generation Semiconductor(System SW)](https://semicon.disu.ac.kr/)  
-   > #### Convergence Major:
-   > - #### Artificial Intelligence Semiconductor
-   > - #### Artificial Intelligence Mobility
-   > - #### [Startup Convergence](https://startup.ssu.ac.kr/)
+## Education and Training ✍️
+   📖 **Studying in [Soongsil University](https://ssu.ac.kr/) since 2021.**
+   > **Major: [AI Convergence](http://aix.ssu.ac.kr/main)**  
+   > **Intensive Major: [Next Generation Semiconductor(System SW)](https://semicon.disu.ac.kr/)**  
+   > **Convergence Major: Artificial Intelligence Semiconductor, Artificial Intelligence Mobility, [Startup Convergence](https://startup.ssu.ac.kr/)**
 
-   Completed [Soongsil University FLEX MATH Startup Academy](http://www.funmath.net/) in 2023.
-   > dd
+   ✔️ Completed [Soongsil University FLEX MATH Startup Academy](http://www.funmath.net/) in 2023.
+   >
    
-   Completed [Soongsil University Edu-Up Academy](https://startupclass.kr/) in 2021.
-   > dd
+   ✔️ Completed [Soongsil University Edu-Up Academy](https://startupclass.kr/) in 2021.
+   >
    
-   Completed [2021 iGEM VCL(Venture Creation Labs)](https://blog.igem.org/blog/2021/5/15/the-igem-epic-2021-venture-creation-labs).
-   > dd
+   ✔️ Completed [2021 iGEM VCL(Venture Creation Labs)](https://blog.igem.org/blog/2021/5/15/the-igem-epic-2021-venture-creation-labs).
+   >
 			
-   Graduated [Ilsan Daejin High School](https://isdj.hs.kr/) in 2021.
-   > SW Education Course in Technology Convergence School
+   🎓 Graduated [Ilsan Daejin High School](https://isdj.hs.kr/) in 2021.
+   > SW Education Course of Science-Technology Convergence
 			
-   Completed [KAIST Cyber Education Course for Gifted Student](https://talented.kaist.ac.kr:8443/) in 2nd Semester of 2019.
-   > **Course Name: IoT(Internet of Things) Course**
+   ✔️ Completed [KAIST Cyber Education Course for Gifted Student](https://talented.kaist.ac.kr:8443/) in 2nd Semester of 2019.
+   > IoT(Internet of Things) Course
 			
-   Graduated in [Goyang Baeksok Middle School](http://www.baeksok.ms.kr/) in 2018.
-			>
+   🎓 Graduated in [Goyang Baeksok Middle School](http://www.baeksok.ms.kr/) in 2018.
+   >
 			
-   Studied in [Cheyenne Middle School](https://cheyenne.edmondschools.net/) as 6th ~ 7th Grade in 2014.08.28. ~ 2016.05.20.
-			>
+   📚 Studied in [Cheyenne Middle School](https://cheyenne.edmondschools.net/) as 6th ~ 7th Grade in 2014.08.28. ~ 2016.05.20.
+   >
 			
-   Graduated in [John Ross Elementary School](https://johnross.edmondschools.net/) in 2014.
-			>
+   🎓 Graduated in [John Ross Elementary School](https://johnross.edmondschools.net/) in 2014.
+   >
 
 ## Club Activities 🚩
   * 1st Member of AIX Developer Team in Soongsil University, AI Convergence**
