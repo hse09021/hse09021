@@ -1,21 +1,43 @@
 ## My Status 📢
- > **RESTART**
+ > **Restart**
 
 ## Work Experience 👓
-  * 2020.10.29. ~ 2022.01.31. [Syncorbis Inc.](https://syncorbis.com/) as SW Engineer.
+  👨‍💻 [Syncorbis Inc.](https://syncorbis.com/) (2020.10.29. ~ 2022.01.31.)
+  > Sotware Engineer
 
 ## Other Career Experience 🔍
-  * 2022.12.23. ~ [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) as Director of Facilities Management.
-  * 2022.11.14. ~ [Soongsil University](https://ssu.ac.kr/) of [Next Generation Semiconductor Innovation Sharing University](https://disu.ac.kr) as Software Engineer.
-  * 2022.06.26. ~ 2022.07.21. Ilsan Daejin Highschool Mentorship Program [Road to Universe](https://timedream.modoo.at/?link=duthcyv9) 2nd as AI/IT Mentor.
-  * 2021.11.27. ~ 2022.12.02. [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) as Student Representative of [AI Convergence](https://aix.ssu.ac.kr/main).
-  * 2019.08.24. ~ 2021.02.28. [Ilsan Daejin High School](https://isdj.hs.kr/) 3-7 as Class President.
-  * 2017.02.18. ~ 2019.04.07. [Goyang Youth Orchestra](http://www.gyyouthorchestra.com/orchestra/) as 2nd Violinist.
-  * 2019.03.04. ~ 2020.03.01. 현세 Robotics Club as Vice President.
-  * 2015.09.22. ~ 2016.05.18. [Cheyenne Middle School TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/) as President.
-  * 2015 ~ 2016 [North Central Honor Orchestra](https://cheyenne.edmondschools.net/2015/10/05/ncho2015/) as 2nd Violinist.
-  * 2014.08.28. ~ 2016.05.20. Cheyenne Middle School Orchestra as Violinist.
-  * 2014 ~ 2015 [Cheyenne Middle School Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/).
+  👨‍💼 **[Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2022.12.23. ~ )**
+  > **Director of Facilities Management**
+  
+  👨‍💻 **[Soongsil University](https://ssu.ac.kr/) of [Next Generation Semiconductor Innovation Sharing University](https://disu.ac.kr) (2022.11.14. ~ )**
+  > **Software Engineer**
+  
+  👨‍💻 Ilsan Daejin Highschool Mentorship Program [Road to Universe](https://timedream.modoo.at/?link=duthcyv9) (2022.06.26. ~ 2022.07.21)
+  > AI/IT Mentor
+  
+  👨‍💼 [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2021.11.27. ~ 2022.12.02.)
+  > Student Representative of [AI Convergence](https://aix.ssu.ac.kr/main)
+  
+  👨‍💼 [Ilsan Daejin High School](https://isdj.hs.kr/) (2019.08.24. ~ 2021.02.28.)
+  > 3-7 Class President
+  
+  🎻 [Goyang Youth Orchestra](http://www.gyyouthorchestra.com/orchestra/) (2017.02.18. ~ 2019.04.07.)
+  > 2nd Violinist
+  
+  👨‍💼 현세 Robotics Club (2019.03.04. ~ 2020.03.01.)
+  > Vice President
+  
+  👨‍💼 [Cheyenne Middle School TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/) (2015.09.22. ~ 2016.05.18.)
+  > President
+  
+  🎻 2015-2016 [North Central Honor Orchestra](https://cheyenne.edmondschools.net/2015/10/05/ncho2015/) 
+  > 2nd Violinist
+  
+  🎻 Cheyenne Middle School Orchestra (2014.08.28. ~ 2016.05.20.)
+  > Violinist
+  
+  🗂️ 2014-2015 [Cheyenne Middle School Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/)
+  > test
 
 ## Education and Training ✍️
    📖 **Studying in [Soongsil University](https://ssu.ac.kr/) since 2021.**
@@ -48,13 +70,13 @@
    >
 
 ## Club Activities 🚩
-  * 1st Member of AIX Developer Team in Soongsil University, AI Convergence**
-  * 1st Member of MAKERS SW Project Club in Soongsil University, AI Convergence**
-  * 6th Member of Kaleido Game & VR/AR Content Development Club in Soongsil University, College of Information Technology**
-  * 39th Member of [SSCC(Soongsil Computing Club)](https://ssccpromotion.xyz/) in Soongsil University**
-  * 25th Member of [Synergy Startup Club](https://instagram.com/ssu_synergy?igshid=YmMyMTA2M2Y=) in Soongsil University**
-  * 4th Member of 현세 Robotics Club in Ilsan Daejin High School**
-  * 1st Member of [TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/) in Cheyenne Middle School**
+  - **`1st Member`** of **AIX Developer Team** in Soongsil University, AI Convergence
+  - **`1st Member`** of **MAKERS** SW Project Club in Soongsil University, AI Convergence
+  - **`6th Member`** of **Kaleido** Game & VR/AR Content Development Club in Soongsil University, College of Information Technology
+  - **`39th Member`** of **[SSCC(Soongsil Computing Club)](https://ssccpromotion.xyz/)** in Soongsil University
+  - **`25th Member`** of **[Synergy](https://instagram.com/ssu_synergy?igshid=YmMyMTA2M2Y=)** Startup Club in Soongsil University
+  - **`4th Member`** of **현세** Robotics Club in Ilsan Daejin High School
+  - **`1st Member`** of **[TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/)** in Cheyenne Middle School
 
 ## Abilties ❗
    ### Computer Languages 💻
@@ -69,7 +91,7 @@
    [![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
    [![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/guides)
    [![image](https://img.shields.io/badge/Shell_Script-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://devdocs.io/bash/)
-   [![image](https://img.shields.io/badge/Visual%20Basic-007ACC?style=for-the-badge&logo=visualstudio&logoColor=wite)](https://learn.microsoft.com/ko-kr/dotnet/visual-basic/)
+   [![image](https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=visualbasic&logoColor=wite)](https://learn.microsoft.com/ko-kr/dotnet/visual-basic/)
    
    ### Libararies & Frameworks 📚
    [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/reference/)
@@ -79,6 +101,7 @@
    [![image](https://img.shields.io/badge/WinUI3-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://docs.microsoft.com/windows/apps/winui/winui3/)
    [![image](https://img.shields.io/badge/BeautifulSoup4-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
    [![image](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/selenium/docs/api/py/index.html)
+   [![image](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://docs.anaconda.com/)
    [![image](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/)
    [![image](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
    [![image](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit%2Dlearn&logoColor=white)](https://scikit-learn.org/stable/)
@@ -98,7 +121,7 @@
     * Little in 日本語(Japanese)
     * Can speak some words in Pусский(Russian)
 
-  ### Available Program 💻
+  ### Available Program 🖥️
   #### 3D Modeling
   [![image](https://img.shields.io/badge/Autodesk_Fusion360-ff6b00?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.co.kr/products/fusion-360/overview)
   #### Graphics
@@ -117,25 +140,31 @@
   [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/main/docs)
   [![image](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/documentation/)
   [![image](https://img.shields.io/badge/Nvidia_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://docs.nvidia.com/jetson/)
-  #### Server
-  [![image](https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=white)](https://www.synology.com/)
   #### Operating System
+  [![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows10&logoColor=white)](https://www.microsoft.com/windows/)
   [![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/doc/html/latest/)
   [![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://help.ubuntu.com/)
   #### DevOps
   [![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
   [![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs)
   [![image](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://developers.notion.com/)
-  #### Chatbot
-  [![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-  [![image](https://img.shields.io/badge/Kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white)](https://i.kakao.com/docs/)
+  #### Server
+  [![image](https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=white)](https://www.synology.com/)
   #### Virtual Machine
   [![image](https://img.shields.io/badge/Putty-000000?style=for-the-badge&logo=putty&logoColor=white)](https://www.putty.org/)
-  [![image](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
+  [![image](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://docs.vmware.com/)
+  [![image](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)](https://docs.aws.amazon.com/ec2/)
   [![image](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.google/)
-  [![image](https://img.shields.io/badge/PaperSpace-000000?style=for-the-badge&logo=paperspace&logoColor=white)](https://www.paperspace.com/)
-
-  
+  [![image](https://img.shields.io/badge/PaperSpace-000000?style=for-the-badge&logo=paperspace&logoColor=white)](https://docs.paperspace.com/)
+  #### Chatbot
+  [![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/developers/docs/)
+  [![image](https://img.shields.io/badge/Kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white)](https://i.kakao.com/docs/)
+  #### IDE
+  [![image](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs)
+  [![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://learn.microsoft.com/visualstudio/)
+  [![image](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)](https://atom.io/)
+  [![image](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://docs.jupyter.org/)
+  [![image](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/help/idea/)
 
 ## Natural Science Career 🔬
  <details>
