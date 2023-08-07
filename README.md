@@ -1,5 +1,6 @@
-## My Status 📢
- > **Restart**
+## I'm an Integrated Engineer who loves to develop my ideas 🤔
+ ### My interests are..
+ > ML/DL, Data Science, Cloud Computing, Embedded SW, Robotics, and 3D Modeling
 
 ## Work Experience 👓
   👨‍💻 [Syncorbis Inc.](https://syncorbis.com/) (2020.10.29. ~ 2022.01.31.)
