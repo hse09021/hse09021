@@ -1,5 +1,5 @@
 ## I'm an Integrated Engineer who loves to develop my own ideas 🤔
- ### My interests are..
+ ### My interests are.. 📌
  > **`🔍 ML/DL`** **`📈 Data Science`** **`☁️ Cloud Computing`** **`📟 Embedded SW`** **`🤖 Robotics`** **`🏗 3D Modeling`**
 
 ## Work Experience 👓
