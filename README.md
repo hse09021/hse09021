@@ -1,6 +1,6 @@
-## I'm an Integrated Engineer who loves to develop my ideas 🤔
+## I'm an Integrated Engineer who loves to develop my own ideas 🤔
  ### My interests are..
- > ML/DL, Data Science, Cloud Computing, Embedded SW, Robotics, and 3D Modeling
+ > **`🔍ML/DL`** **`📈Data Science`** **`☁️Cloud Computing`** **`📟Embedded SW`** **`🤖Robotics`** **`🏗3D Modeling`**
 
 ## Work Experience 👓
   👨‍💻 [Syncorbis Inc.](https://syncorbis.com/) (2020.10.29. ~ 2022.01.31.)
