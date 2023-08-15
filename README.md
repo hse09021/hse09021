@@ -215,7 +215,7 @@
    <b>2023</b>
   </summary>
 
-   🎖️ **`President of Council of University, National Program of Excellence in Software Award [4nd Place] in SWUniv Joint AI Competition 2023.`**  
+   🎖️ **`President of Council of University, National Program of Excellence in Software Award [4th Place] in SWUniv Joint AI Competition 2023.`**  
    > 
    
  </details>
