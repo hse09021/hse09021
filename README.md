@@ -71,9 +71,10 @@
    >
 
 ## Club Activities 🚩
+  - **`2nd Member`** of **AlgoITSSU** in Soongsil University, AI Convergence
   - **`1st Member`** of **AIX Developer Team** in Soongsil University, AI Convergence
   - **`1st Member`** of **MAKERS** SW Project Club in Soongsil University, AI Convergence
-  - **`6th Member`** of **[Kaleido](https://github.com/SSUKaleido)** Game & VR/AR Content Development Club in Soongsil University, College of Information Technology
+  - **`4th Member`** of **[Kaleido](https://github.com/SSUKaleido)** Game & VR/AR Content Development Club in Soongsil University, College of Information Technology
   - **`39th Member`** of **[SSCC(Soongsil Computing Club)](https://github.com/SoongSilComputingClub)** in Soongsil University
   - **`25th Member`** of **[Synergy](https://instagram.com/ssu_synergy?igshid=YmMyMTA2M2Y=)** Startup Club in Soongsil University
   - **`4th Member`** of **현세** Robotics Club in Ilsan Daejin High School
