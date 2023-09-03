@@ -103,7 +103,6 @@
    [![image](https://img.shields.io/badge/WinUI3-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://docs.microsoft.com/windows/apps/winui/winui3/)
    [![image](https://img.shields.io/badge/BeautifulSoup4-000000?style=for-the-badge&logo=python&logoColor=white)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
    [![image](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/selenium/docs/api/py/index.html)
-   [![image](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://docs.anaconda.com/)
    [![image](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/)
    [![image](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
    [![image](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit%2Dlearn&logoColor=white)](https://scikit-learn.org/stable/)
