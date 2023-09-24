@@ -94,7 +94,7 @@
    [![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/guides)
    [![image](https://img.shields.io/badge/Shell_Script-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://devdocs.io/bash/)
    [![image](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white)](https://learn.microsoft.com/ko-kr/dotnet/visual-basic/)
-   [![image](https://img.shields.io/badge/Verilog_HDL-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)]
+   ![image](https://img.shields.io/badge/Verilog_HDL-00001B?style=for-the-badge&logo=amazonec2&logoColor=white)
    
    ### Libararies & Frameworks 📚
    [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/reference/)
