@@ -93,7 +93,8 @@
    [![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
    [![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/guides)
    [![image](https://img.shields.io/badge/Shell_Script-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://devdocs.io/bash/)
-   [![image](https://img.shields.io/badge/Visual%20Basic-512BD4?style=for-the-badge&logo=visualbasic&logoColor=wite)](https://learn.microsoft.com/ko-kr/dotnet/visual-basic/)
+   [![image](https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=visualbasic&logoColor=white)](https://learn.microsoft.com/ko-kr/dotnet/visual-basic/)
+   [![image](https://img.shields.io/badge/Verilog_HDL-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)]
    
    ### Libararies & Frameworks 📚
    [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/reference/)
@@ -110,9 +111,9 @@
    [![image](https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://biopython.org/wiki/Documentation)
    [![image](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://doc.qt.io/qtforpython/)
    [![image](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
-   [![image](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/manual/bash.html) 
+   [![image](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/manual/bash.html) 
    [![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev/)
-   [![image](https://img.shields.io/badge/INI%20for%20Rainmeter-19519B?style=for-the-badge&logo=rainmeter&logoColor=white)](https://docs.rainmeter.net/)
+   [![image](https://img.shields.io/badge/Rainmeter-19519B?style=for-the-badge&logo=rainmeter&logoColor=white)](https://docs.rainmeter.net/)
 
   ### Reallife Languages 💬
     - Native in 한국어(Korean)
