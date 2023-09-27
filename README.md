@@ -42,13 +42,13 @@
 
 ## Education and Training ✍️
 ```mermaid
-   %%{init: {'themeVariables': {'commitLabelFontSize': '20px'}, 'gitGraph': {'mainBranchName': 'Education'}}}%%
-   gitGraph
-       commit id: "John Ross Elementary School"
-       commit id: "Cheyenne Middle School"
-       commit id: "Goyang Baeksok Middle School"
-       commit id: "Ilsan Daejin High School"
-       commit id: "Soongsil University"
+   %%{init: {'themeVariables': {'commitLabelFontSize': '120%'}, 'gitGraph': {'mainBranchName': 'Education'}}}%%
+   gitGraph TB:
+      commit id: "John Ross Elementary School"
+      commit id: "Cheyenne Middle School"
+      commit id: "Goyang Baeksok Middle School"
+      commit id: "Ilsan Daejin High School"
+      commit id: "Soongsil University"
 ```
 
    📖 **Studying in [Soongsil University](https://ssu.ac.kr/) since 2021.**
