@@ -121,49 +121,19 @@
     - Little in 日本語(Japanese)
 
   ### Available Program 🖥️
-  #### 3D Modeling
-  [![image](https://img.shields.io/badge/Autodesk_Fusion360-ff6b00?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.co.kr/products/fusion-360/overview)
-  #### Graphics
-  [![image](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
-  [![image](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
-  [![image](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premiere.html)
-  #### UI/UX Design
-  [![image](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)](https://www.adobe.com/products/xd.html)
-  [![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-  [![image](https://img.shields.io/badge/Rainmeter-19519B?style=for-the-badge&logo=rainmeter&logoColor=white)](https://docs.rainmeter.net/) 
-  #### Office
-  [![image](https://img.shields.io/badge/Microsoft_Office365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)](https://www.microsoft.com/microsoft-365)
-  [![image](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com/)
-  [![image](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)](https://www.libreoffice.org/)
-  #### Embedded
-  [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/main/docs)
-  [![image](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/documentation/)
-  [![image](https://img.shields.io/badge/Nvidia_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://docs.nvidia.com/jetson/)
-  #### Operating System
-  [![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows10&logoColor=white)](https://www.microsoft.com/windows/)
-  [![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/doc/html/latest/)
-  [![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://help.ubuntu.com/)
-  #### DevOps
-  [![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
-  [![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs)
-  [![image](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://developers.notion.com/)
-  #### Server
-  [![image](https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=white)](https://www.synology.com/)
-  #### Virtual Machine
-  [![image](https://img.shields.io/badge/Putty-000000?style=for-the-badge&logo=putty&logoColor=white)](https://www.putty.org/)
-  [![image](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://docs.vmware.com/)
-  [![image](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)](https://docs.aws.amazon.com/ec2/)
-  [![image](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.google/)
-  [![image](https://img.shields.io/badge/PaperSpace-000000?style=for-the-badge&logo=paperspace&logoColor=white)](https://docs.paperspace.com/)
-  #### Chatbot
-  [![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/developers/docs/)
-  [![image](https://img.shields.io/badge/Kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white)](https://i.kakao.com/docs/)
-  #### IDE
-  [![image](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs)
-  [![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://learn.microsoft.com/visualstudio/)
-  [![image](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)](https://atom.io/)
-  [![image](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://docs.jupyter.org/)
-  [![image](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/help/idea/)
+  | **Category** | **Program** |
+  | :---: | :--- |
+  | **`3D Modeling`** | [![image](https://img.shields.io/badge/Autodesk_Fusion360-ff6b00?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.co.kr/products/fusion-360/overview) |
+  | **`Graphics`** | [![image](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) [![image](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html) [![image](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/products/premiere.html) |
+  | **`UI/UX Design`** | [![image](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)](https://www.adobe.com/products/xd.html) [![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![image](https://img.shields.io/badge/Rainmeter-19519B?style=for-the-badge&logo=rainmeter&logoColor=white)](https://docs.rainmeter.net/) |
+  | **`Office`** | [![image](https://img.shields.io/badge/Microsoft_Office365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)](https://www.microsoft.com/microsoft-365) [![image](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com/) [![image](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)](https://www.libreoffice.org/) |
+  | **`Embedded`** | [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/main/docs) [![image](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/documentation/) [![image](https://img.shields.io/badge/Nvidia_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://docs.nvidia.com/jetson/) |
+  | **`Operating System`** | [![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows10&logoColor=white)](https://www.microsoft.com/windows/) [![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/doc/html/latest/) [![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://help.ubuntu.com/) |
+  | **`DevOps`** | [![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/) [![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs) [![image](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://developers.notion.com/) |
+  | **`Server`** | [![image](https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=white)](https://www.synology.com/) |
+  | **`Virtual Machine`** | [![image](https://img.shields.io/badge/Putty-000000?style=for-the-badge&logo=putty&logoColor=white)](https://www.putty.org/) [![image](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://docs.vmware.com/) [![image](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)](https://docs.aws.amazon.com/ec2/) [![image](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.google/) [![image](https://img.shields.io/badge/PaperSpace-000000?style=for-the-badge&logo=paperspace&logoColor=white)](https://docs.paperspace.com/) |
+  | **`Chatbot`** | [![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/developers/docs/) [![image](https://img.shields.io/badge/Kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white)](https://i.kakao.com/docs/) |
+  | **`IDE & Code Editor`** | [![image](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs) [![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://learn.microsoft.com/visualstudio/) [![image](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white)](https://atom.io/) [![image](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://docs.jupyter.org/) [![image](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/help/idea/) |
 
 ## Natural Science Career 🔬
  <details>
