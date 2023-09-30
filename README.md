@@ -3,17 +3,17 @@
  > **`🔍 ML/DL`** **`📈 Data Science`** **`☁️ Cloud Computing`** **`📟 Embedded SW`** **`🤖 Robotics`** **`🏗 3D Modeling`**
 
 ## Work Experience 👓
+  👨‍💻 **[Soongsil University](https://ssu.ac.kr/) of [Next Generation Semiconductor Innovation Sharing University](https://disu.ac.kr) (2022.11.14. ~ )**
+  > **Software Engineer**
+
   👨‍💻 [Syncorbis Inc.](https://syncorbis.com/) (2020.10.29. ~ 2022.01.31.)
   > Sotware Engineer
 
 ## Other Career Experience 🔍
-  👨‍💼 **[Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2022.12.23. ~ )**
+  👨‍💼 **[Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2022.12.23. ~ 2022.12.14.)**
   > **Director of Facilities Management**
   
-  👨‍💻 **[Soongsil University](https://ssu.ac.kr/) of [Next Generation Semiconductor Innovation Sharing University](https://disu.ac.kr) (2022.11.14. ~ )**
-  > **Software Engineer**
-  
-  👨‍💻 Ilsan Daejin Highschool Mentorship Program [Road to Universe](https://timedream.modoo.at/?link=duthcyv9) (2022.06.26. ~ 2022.07.21)
+  👨‍💻 Ilsan Daejin Highschool Mentorship Program [Road to Universe](https://timedream.modoo.at/?link=duthcyv9) (2022.06.26. ~ 2022.07.21.)
   > AI/IT Mentor
   
   👨‍💼 [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2021.11.27. ~ 2022.12.02.)
@@ -36,7 +36,6 @@
   
   🎻 Cheyenne Middle School Orchestra (2014.08.28. ~ 2016.05.20.)
   > Violinist
-
 
 ## Education and Training ✍️
    📖 **Studying in [Soongsil University](https://ssu.ac.kr/) since 2021.**
@@ -77,8 +76,7 @@
   - **`25th Member`** of **[Synergy](https://instagram.com/ssu_synergy?igshid=YmMyMTA2M2Y=)** Startup Club in Soongsil University
   - **`4th Member`** of **현세** Robotics Club in Ilsan Daejin High School
   - **`1st Member`** of **[TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/)** in Cheyenne Middle School
-  - **`Member of 2014-2015`**[Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/)** in Cheyenne Middle School
-  >
+  - **`Member of 2014-2015`**[Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/)** in Cheyenne Middle School  
 
 ## Abilties ❗
    ### Computer Languages 💻
