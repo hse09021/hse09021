@@ -76,7 +76,7 @@
   - **`25th Member`** of **[Synergy](https://instagram.com/ssu_synergy?igshid=YmMyMTA2M2Y=)** Startup Club in Soongsil University
   - **`4th Member`** of **현세** Robotics Club in Ilsan Daejin High School
   - **`1st Member`** of **[TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/)** in Cheyenne Middle School
-  - **`Member of 2014-2015`**[Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/)** in Cheyenne Middle School  
+  - **`Member of 2014-2015` **[Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/)** in Cheyenne Middle School  
 
 ## Abilties ❗
    ### Computer Languages 💻
