@@ -10,7 +10,7 @@
   > Sotware Engineer
 
 ## Other Career Experience 🔍
-  👨‍💼 **[Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2022.12.23. ~ 2022.12.14.)**
+  👨‍💼 **[Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2022.12.23. ~ 2023.12.14.)**
   > **Director of Facilities Management**
   
   👨‍💻 Ilsan Daejin Highschool Mentorship Program [Road to Universe](https://timedream.modoo.at/?link=duthcyv9) (2022.06.26. ~ 2022.07.21.)
