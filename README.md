@@ -65,7 +65,9 @@
    >
 			
    🎓 Graduated in [John Ross Elementary School](https://johnross.edmondschools.net/) in 2014.
-   >
+   > 
+
+
 
 ## Club Activities 🚩
   - **`2nd Member`** of **AlgoITSSU** in Soongsil University, AI Convergence
