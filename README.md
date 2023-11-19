@@ -187,7 +187,7 @@
   </summary>
 
    🎖️ **`President of Council of University, National Program of Excellence in Software Award [4th Place] in SWUniv Joint AI Competition 2023.`**  
-   > 
+   > **Project Activity: \<Satellite Image Building Area Segmentation\>**
    
  </details>
  
