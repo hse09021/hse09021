@@ -197,7 +197,7 @@
   </summary>
 
    🥈 **`Excellence Award [2nd Place] in 2021 Engaged Learning Competition from Soongsil University.`**
-   > **Project Activity: \<Cloud Based Modular Smart Farm Tower\>**
+   > **Project Activity: \<Computer Vision Based Garbage Recycling System\>**
    
    🥉 **`Excellence Award [3rd Place] in 2021 AI Convergence Competition from Soongsil University.`**
    > **Project Activity: \<Computer Vision Based Garbage Recycling System\>**
