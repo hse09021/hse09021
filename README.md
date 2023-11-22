@@ -70,15 +70,32 @@
 
 
 ## Club Activities 🚩
-  - **`2nd Member`** of **AlgoITSSU** in Soongsil University, AI Convergence
-  - **`1st Member`** of **AIX Developer Team** in Soongsil University, AI Convergence
-  - **`1st Member`** of **MAKERS** SW Project Club in Soongsil University, AI Convergence
-  - **`4th Member`** of **[Kaleido](https://github.com/SSUKaleido)** Game & VR/AR Content Development Club in Soongsil University, College of Information Technology
-  - **`39th Member`** of **[SSCC(Soongsil Computing Club)](https://github.com/SoongSilComputingClub)** in Soongsil University
-  - **`25th Member`** of **[Synergy](https://instagram.com/ssu_synergy?igshid=YmMyMTA2M2Y=)** Startup Club in Soongsil University
-  - **`4th Member`** of **현세** Robotics Club in Ilsan Daejin High School
-  - **`1st Member`** of **[TSA(Technology Student Association)](https://cheyenne.edmondschools.net/our-school/clubs/tsa/)** in Cheyenne Middle School
-  - **`Member of 2014-2015` [Academic Team](https://cheyenne.edmondschools.net/our-school/clubs/academic-team/)** in Cheyenne Middle School  
+  - **`2nd Member`** of **AlgoITSSU** in Soongsil University, AI Convergence  
+	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
+  - **`1st Member`** of **AIX Developer Team** in Soongsil University, AI Convergence  
+	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
+  - **`1st Member`** of **MAKERS** SW Project Club in Soongsil University, AI Convergence  
+	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
+  - **`4th Member`** of **Kaleido** Game & VR/AR Content Development Club in Soongsil University, College of Information Technology  
+	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
+	<img href="https://www.instagram.com/kaleido.ssu/" src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="3%" height="3%">
+  	<img href="https://github.com/SSUKaleido" src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="3%" height="3%">
+  - **`39th Member`** of **SSCC(Soongsil Computing Club)** in Soongsil University  
+	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
+	<img href="https://www.instagram.com/sscc_ssu/" src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="3%" height="3%">
+  	<img href="https://github.com/SoongSilComputingClub" src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="3%" height="3%">
+  - **`25th Member`** of **Synergy** Startup Club in Soongsil University  
+	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
+	<img href="https://www.instagram.com/ssu_synergy/" src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="3%" height="3%">
+ 	<img href="https://ssusynergy.com/" src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Website" width="3%" height="3%">
+  - **`4th Member`** of **현세** Robotics Club in Ilsan Daejin High School  
+	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
+  - **`1st Member`** of **TSA(Technology Student Association)** in Cheyenne Middle School  
+	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
+	<img href="https://cheyenne.edmondschools.net/our-school/clubs/tsa/" src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Website" width="3%" height="3%">
+  - **`Member of 2014-2015` Academic Team** in Cheyenne Middle School  
+	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
+	<img href="https://cheyenne.edmondschools.net/our-school/clubs/academic-team/" src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Website" width="3%" height="3%">
 
 ## Abilties ❗
    ### Computer Languages 💻
