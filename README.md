@@ -70,8 +70,6 @@
 
 
 ## Club Activities 🚩
-  - **`2nd Member`** of **AlgoITSSU** in Soongsil University, AI Convergence  
-	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
   - **`1st Member`** of **AIX Developer Team** in Soongsil University, AI Convergence  
 	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
   - **`1st Member`** of **MAKERS** SW Project Club in Soongsil University, AI Convergence  
