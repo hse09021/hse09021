@@ -82,24 +82,24 @@
 	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
   - **`4th Member`** of **Kaleido** Game & VR/AR Content Development Club in Soongsil University, College of Information Technology  
 	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
-	<img href="https://www.instagram.com/kaleido.ssu/" src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="3%" height="3%">
-  	<img href="https://github.com/SSUKaleido" src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="3%" height="3%">
+	<a href="https://www.instagram.com/kaleido.ssu/"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="3%" height="3%"></a>
+  	<a href="https://github.com/SSUKaleido"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="3%" height="3%"></a>
   - **`39th Member`** of **SSCC(Soongsil Computing Club)** in Soongsil University  
 	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
-	<img href="https://www.instagram.com/sscc_ssu/" src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="3%" height="3%">
-  	<img href="https://github.com/SoongSilComputingClub" src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="3%" height="3%">
+	<a href="https://www.instagram.com/sscc_ssu/"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="3%" height="3%"></a>
+  	<a href="https://github.com/SoongSilComputingClub"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="3%" height="3%"></a>
   - **`25th Member`** of **Synergy** Startup Club in Soongsil University  
 	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
-	<img href="https://www.instagram.com/ssu_synergy/" src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="3%" height="3%">
- 	<img href="https://ssusynergy.com/" src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Website" width="3%" height="3%">
+	<a href="https://www.instagram.com/ssu_synergy/"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="3%" height="3%"></a>
+ 	<a href="https://ssusynergy.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Website" width="3%" height="3%"></a>
   - **`4th Member`** of **현세** Robotics Club in Ilsan Daejin High School  
 	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
   - **`1st Member`** of **TSA(Technology Student Association)** in Cheyenne Middle School  
 	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
-	<img href="https://cheyenne.edmondschools.net/our-school/clubs/tsa/" src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Website" width="3%" height="3%">
+	<a href="https://cheyenne.edmondschools.net/our-school/clubs/tsa/"><img src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Website" width="3%" height="3%"></a>
   - **`Member of 2014-2015` Academic Team** in Cheyenne Middle School  
 	<img src="https://github.com/hse09021/hse09021/assets/51695816/0e8c1ffa-9119-4114-8f8d-1ac773b7fb2d" width="1px" height="35px">
-	<img href="https://cheyenne.edmondschools.net/our-school/clubs/academic-team/" src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Website" width="3%" height="3%">
+	<a href="https://cheyenne.edmondschools.net/our-school/clubs/academic-team/"><img src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Website" width="3%" height="3%"></a>
 
 ## Abilties ❗
    ### Computer Languages 💻
