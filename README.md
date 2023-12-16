@@ -86,8 +86,8 @@
 	</p>
   - **`4th Member`** of **Kaleido** Game & VR/AR Content Development Club in Soongsil University, College of Information Technology  
 	<p>
-		<a href="https://www.instagram.com/kaleido.ssu/"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="3%" height="3%"></a>
-  		<a href="https://github.com/SSUKaleido"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="3%" height="3%"></a>
+		<a href="https://www.instagram.com/kaleido.ssu/"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="35px" height="35px"></a>
+  		<a href="https://github.com/SSUKaleido"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="35px" height="35px"></a>
 	</p>
   - **`39th Member`** of **SSCC(Soongsil Computing Club)** in Soongsil University  
 	<p>
