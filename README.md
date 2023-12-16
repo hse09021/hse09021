@@ -86,18 +86,18 @@
 	</p>
   - **`4th Member`** of **Kaleido** Game & VR/AR Content Development Club in Soongsil University, College of Information Technology  
 	<p>
-		<a href="https://www.instagram.com/kaleido.ssu/"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="35px" height="35px"></a>
-  		<a href="https://github.com/SSUKaleido"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="35px" height="35px"></a>
+		<a href="https://www.instagram.com/kaleido.ssu/"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="30px" height="30px"></a>
+  		<a href="https://github.com/SSUKaleido"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="30px" height="30px"></a>
 	</p>
   - **`39th Member`** of **SSCC(Soongsil Computing Club)** in Soongsil University  
 	<p>
-		<a href="https://www.instagram.com/sscc_ssu/"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="3%" height="3%"></a>
-  		<a href="https://github.com/SoongSilComputingClub"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="3%" height="3%"></a>
+		<a href="https://www.instagram.com/sscc_ssu/"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="30px" height="30px"></a>
+  		<a href="https://github.com/SoongSilComputingClub"><img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="Github" width="30px" height="30px"></a>
 	</p>
   - **`25th Member`** of **Synergy** Startup Club in Soongsil University  
 	<p>
-		<a href="https://www.instagram.com/ssu_synergy/"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="3%" height="3%"></a>
- 		<a href="https://ssusynergy.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Website" width="3%" height="3%"></a>
+		<a href="https://www.instagram.com/ssu_synergy/"><img src="https://github.com/get-icon/geticon/raw/master/icons/instagram-icon.svg" alt="Instagram" width="30px" height="30px"></a>
+ 		<a href="https://ssusynergy.com/"><img src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Website" width="30px" height="30px"></a>
   	</p>
   - **`4th Member`** of **현세** Robotics Club in Ilsan Daejin High School  
 	<p>
@@ -105,11 +105,11 @@
 	</p>
   - **`1st Member`** of **TSA(Technology Student Association)** in Cheyenne Middle School  
 	<p>
-		<a href="https://cheyenne.edmondschools.net/our-school/clubs/tsa/"><img src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Website" width="3%" height="3%"></a>
+		<a href="https://cheyenne.edmondschools.net/our-school/clubs/tsa/"><img src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Website" width="30px" height="30px"></a>
 	</p>
   - **`Member of 2014-2015` Academic Team** in Cheyenne Middle School  
 	<p>
-		<a href="https://cheyenne.edmondschools.net/our-school/clubs/academic-team/"><img src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Website" width="3%" height="3%"></a>
+		<a href="https://cheyenne.edmondschools.net/our-school/clubs/academic-team/"><img src="https://github.com/get-icon/geticon/raw/master/icons/chrome.svg" alt="Website" width="30px" height="30px"></a>
 	</p>
 
 ## Abilties ❗
