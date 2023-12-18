@@ -10,7 +10,7 @@
   > Sotware Engineer
 
 ## Other Career Experience 🔍
-  👨‍💼 **[Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2023.12.22. ~ 2023.12.22.)**
+  👨‍💼 **[Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2023.12.22. ~ 2024.12.22.)**
   > **Senator of [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/)**  
   > **Senate President of [College of Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)**  
   > **Student Representative of [Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)**  
