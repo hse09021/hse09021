@@ -15,8 +15,8 @@
   > **Senate President of [College of Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)**  
   > **Student Representative of [Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)**  
 
-  👨‍💼 **[Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2022.12.23. ~ 2023.12.21.)**
-  > **Director of Facilities Management**
+  👨‍💼 [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2022.12.23. ~ 2023.12.21.)
+  > Director of Facilities Management
   
   👨‍💻 Ilsan Daejin Highschool Mentorship Program [Road to Universe](https://timedream.modoo.at/?link=duthcyv9) (2022.06.26. ~ 2022.07.21.)
   > AI/IT Mentor
