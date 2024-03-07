@@ -3,8 +3,8 @@
  > **`🔍 ML/DL`** **`📈 Data Science`** **`☁️ Cloud Computing`** **`📟 Embedded SW`** **`🤖 Robotics`** **`🏗 3D Modeling`**
 
 ## Work Experience 👓
-  👨‍💻 **[Soongsil University](https://ssu.ac.kr/) of [Next Generation Semiconductor Innovation Sharing University](https://disu.ac.kr) (2022.11.14. ~ )**
-  > **Software Engineer**
+  👨‍💻 [Soongsil University](https://ssu.ac.kr/) of [Next Generation Semiconductor Innovation Sharing University](https://disu.ac.kr) (2022.11.14. ~ 2023.10.30.)
+  > Software Engineer
 
   👨‍💻 [Syncorbis Inc.](https://syncorbis.com/) (2020.10.29. ~ 2022.01.31.)
   > Sotware Engineer
