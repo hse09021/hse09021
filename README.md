@@ -296,7 +296,7 @@
    > **Project Activity: \<Fidget Toy for Elders\>**
 
    ✔ **`Participated in 2018 Maker Project Club Supporting Project`**
-   > **Research Activity: \<Patient-Tailored Recycled Fidget Toys for Stroke Patients\>**
+   > **Research Activity: \<Fidget Toys for rehabilitation for stroke patients\>**
 
    🏅 **`Encouragement Award [4th Place] in 2018 Sejong University Highschool SW Hackathon.`**
    > **Project Activity: \<Unmanned Emergency Helicopter System for Rapid Patient Transfer\>**
@@ -373,7 +373,7 @@
    ✔ **`Participated in K-Startup 2021 U300 Competition.`**
    >
 
-   🏅 **`President of Korea Association of Industry, Academy and Research Institute Award [4th Place] in 2021 Venture Start-up Competition from Seoul National University of Science and Technology.`**
+   🏅 **`President of Korea Association of University, Research Institute and Industry Award [4th Place] in 2021 Venture Start-up Competition from Seoul National University of Science and Technology.`**
    >
 
    ✔ **`Selected in 10th Startup Campus Town Entry Competition from Korea University.`**
