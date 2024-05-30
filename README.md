@@ -405,7 +405,8 @@
    >
 
    📄 **`Patent "Fire Guidance System"`**
-   > **Application No. 10-2150228-0000**
+   > **Application No. 10-2150228-0000**  
+   > [Patent](https://doi.org/10.8080/1020200032040)
 
  </details>
 
