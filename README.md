@@ -217,7 +217,7 @@
    <b>2023</b>
   </summary>
 
-   🎖️ **`President of Council of University, National Program of Excellence in Software Award [4th Place] in SWUniv Joint AI Competition 2023.`**  
+   🏅 **`President of Council of University, National Program of Excellence in Software Award [4th Place] in SWUniv Joint AI Competition 2023.`**  
    > **Project Activity: \<Satellite Image Building Area Segmentation\>**
    
  </details>
@@ -234,7 +234,7 @@
    > **Project Activity: \<Computer Vision Based Garbage Recycling System\>**
    
    🥈 **`President of Korea Agency of Education, Promotion & Information Service in Food, Agriculture, Forestry & Fisheries Award [2nd Place] in Smart Farm & AI Chellange.`**
-   > **Project Activity: \<Cow Smart Mangaement\>**  
+   > **Project Activity: \<Cow Smart Management\>**  
    > [News](https://scatch.ssu.ac.kr/뉴스센터/주요뉴스/?slug=컴퓨터-동아리-sscc-2021-스마트농업-인공지능-경진대회서)
    
  </details>
