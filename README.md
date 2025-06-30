@@ -3,6 +3,9 @@
  > **`🔍 ML/DL`** **`📈 Data Science`** **`☁️ Cloud Computing`** **`📟 Embedded SW`** **`🤖 Robotics`** **`🏗 3D Modeling`**
 
 ## Work Experience 👓
+  **👨‍💻 [Seoul National University](https://snu.ac.kr/) [ Computer Architecture & Parallel Processing Lab](http://capp.snu.ac.kr/) (2025.02.21. ~ Present)**
+  > **Undergraduate Intern**
+
   👨‍💻 [Soongsil University](https://ssu.ac.kr/) of [Next Generation Semiconductor Innovation Sharing University](https://disu.ac.kr) (2022.11.14. ~ 2023.10.30.)
   > Software Engineer
 
@@ -10,10 +13,20 @@
   > Sotware Engineer
 
 ## Other Career Experience 🔍
-  👨‍💼 **[Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2023.12.22. ~ 2024.12.22.)**
+  👨‍💼 **[Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2025.03.27. ~ 2025.12.20.)**
   > **Senator of [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/)**  
   > **Senate President of [College of Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)**  
-  > **Student Representative of [Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)**  
+  > **Student Representative of [Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)**
+
+  👨‍💼 [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2024.12.21. ~ 2025.03.13.)
+  > Senator of [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/)  
+  > Senate President of [College of Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/) Emergency Management Committee  
+  > Student Representative of [Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/) Emergency Management Committee
+
+  👨‍💼 [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2023.12.22. ~ 2024.12.21.)
+  > Senator of [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/)  
+  > Senate President of [College of Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)  
+  > Student Representative of [Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)
 
   👨‍💼 [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2022.12.23. ~ 2023.12.21.)
   > Director of Facilities Management
@@ -145,6 +158,7 @@
    [![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://docs.flutter.dev/)
    [![image](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash/manual/bash.html) 
    [![image](https://img.shields.io/badge/Rainmeter-19519B?style=for-the-badge&logo=rainmeter&logoColor=white)](https://docs.rainmeter.net/)
+   [![image](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://docs.nvidia.com/cuda/)
 
   ### Reallife Languages 💬
     - Native in 한국어(Korean)
@@ -162,15 +176,15 @@
   | **`Office`** | [![image](https://img.shields.io/badge/Microsoft_Office365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.microsoft.com/microsoft-365) [![image](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://workspace.google.com/) [![image](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)](https://www.libreoffice.org/) |
   | **`EDA/PCB`** | ![image](https://img.shields.io/badge/Cadence_Virtuoso-8B0000?style=for-the-badge&logo=amazonec2&logoColor=white) ![image](https://img.shields.io/badge/Cadence_OrCAD-8B0000?style=for-the-badge&logo=amazonec2&logoColor=white) |
   | **`FPGA`** | ![image](https://img.shields.io/badge/Xilinx_Vivado-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![image](https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white) |
-  | **`MCU/MPU`** | [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/main/docs) [![image](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/documentation/) [![image](https://img.shields.io/badge/Nvidia_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://docs.nvidia.com/jetson/) |
+  | **`MCU/MPU`** | [![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/en/main/docs) [![image](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/documentation/) [![image](https://img.shields.io/badge/Nvidia_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://docs.nvidia.com/jetson/) [![image](https://img.shields.io/badge/AVR%20MCU-EC1B24?style=for-the-badge&logo=microchip&logoColor=white)]() [![image](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)]() |
   | **`Operating System`** | [![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows10&logoColor=white)](https://www.microsoft.com/windows/) [![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)](https://www.kernel.org/doc/html/latest/) [![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://help.ubuntu.com/) |
   | **`DevOps`** | [![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/) [![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/docs) [![image](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://developers.notion.com/) ![image](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white) |
-  | **`Server`** | [![image](https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=white)](https://www.synology.com/) |
-  | **`Virtual Machine`** | [![image](https://img.shields.io/badge/Putty-000000?style=for-the-badge&logo=putty&logoColor=white)](https://www.putty.org/) [![image](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://docs.vmware.com/) ![image](https://img.shields.io/badge/MobaXterm-000000?style=for-the-badge&logo=mobaxterm&logoColor=white) [![image](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)](https://docs.aws.amazon.com/ec2/) [![image](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.google/) [![image](https://img.shields.io/badge/PaperSpace-000000?style=for-the-badge&logo=paperspace&logoColor=white)](https://docs.paperspace.com/) |
+  | **`Server`** | [![image](https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=white)](https://www.synology.com/) [![image](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)](https://docs.aws.amazon.com/ec2/) |
+  | **`Virtual Machine`** | [![image](https://img.shields.io/badge/Putty-000000?style=for-the-badge&logo=putty&logoColor=white)](https://www.putty.org/) [![image](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://docs.vmware.com/) ![image](https://img.shields.io/badge/MobaXterm-000000?style=for-the-badge&logo=mobaxterm&logoColor=white) [![image](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.google/) [![image](https://img.shields.io/badge/PaperSpace-000000?style=for-the-badge&logo=paperspace&logoColor=white)](https://docs.paperspace.com/) |
   | **`Chatbot`** | [![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/developers/docs/) [![image](https://img.shields.io/badge/Kakaotalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white)](https://i.kakao.com/docs/) |
   | **`IDE & Code Editor`** | [![image](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs) [![image](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://learn.microsoft.com/visualstudio/) [![image](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://docs.jupyter.org/) [![image](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/help/idea/) |
 
-## Natural Science Career 🔬
+## Science Career 🔬
  <details>
   <summary>
    <b>2020</b>
@@ -214,6 +228,16 @@
   </details>
  
 ## Engineering Career 🛠️
+  <details>
+  <summary>
+   <b>2025</b>
+  </summary>
+
+   🎙 **`Gave a presentation 2025 IEIE Summer Conference Unergraduate Short Oral Session.`**
+   > **Research Activity: \<Improvement of 3D Medical Image Segmentation by Optimizing Attention of SegFormer3D\>**
+   
+ </details>
+  
   <details>
   <summary>
    <b>2023</b>
