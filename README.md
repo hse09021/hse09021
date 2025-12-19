@@ -233,6 +233,9 @@
    <b>2025</b>
   </summary>
 
+   🥇 **`Grand Prize [1st Place] in 5th Uni-D Datathon.`**
+   > **Project Activity: \<Question-Based Vision-Language Model for Visual Element (Table and Chart) Location Prediction in Documents\>**
+
    🎙 **`Gave a presentation 2025 IEIE Summer Conference Unergraduate Short Oral Session.`**
    > **Research Activity: \<Improvement of 3D Medical Image Segmentation by Optimizing Attention of SegFormer3D\>**
    
