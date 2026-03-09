@@ -3,8 +3,11 @@
  > **`🔍 ML/DL`** **`📈 Data Science`** **`☁️ Cloud Computing`** **`📟 Embedded SW`** **`🤖 Robotics`** **`🏗 3D Modeling`**
 
 ## Work Experience 👓
-  **👨‍💻 [Seoul National University](https://snu.ac.kr/) [ Computer Architecture & Parallel Processing Lab](http://capp.snu.ac.kr/) (2025.02.21. ~ Present)**
-  > **Undergraduate Intern**
+  👨‍💻 **[Maum.AI](https://maum.ai/) (2026.03.04. ~ Present)**
+  > **Isaac SIM Engineer**
+  
+  👨‍💻 [Seoul National University](https://snu.ac.kr/) [Computer Architecture & Parallel Processing Lab](http://capp.snu.ac.kr/) (2025.02.21. ~ Present)
+  > Undergraduate Intern
 
   👨‍💻 [Soongsil University](https://ssu.ac.kr/) of [Next Generation Semiconductor Innovation Sharing University](https://disu.ac.kr) (2022.11.14. ~ 2023.10.30.)
   > Software Engineer
@@ -13,20 +16,25 @@
   > Sotware Engineer
 
 ## Other Career Experience 🔍
-  👨‍💼 **[Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2025.03.27. ~ 2025.12.20.)**
+  👨‍💼 **[Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2025.12.25. ~ Present)**
   > **Senator of [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/)**  
-  > **Senate President of [College of Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)**  
-  > **Student Representative of [Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)**
+  > **College Senator of [College of Artificial Intelligence](https://ssu.ac.kr/교육-·-연구/대학소개/ai대학/) Emergency Management Committee**  
+  > **Student Vice President of [Artificial Intelligence](https://ssu.ac.kr/교육-·-연구/대학소개/ai대학/) Emergency Management Committee**
+  
+  👨‍💼 [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2025.03.27. ~ 2025.12.20.)
+  > Senator of [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/)  
+  > Senate President of [College of Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)  
+  > Student President of [Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)
 
   👨‍💼 [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2024.12.21. ~ 2025.03.13.)
   > Senator of [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/)  
   > Senate President of [College of Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/) Emergency Management Committee  
-  > Student Representative of [Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/) Emergency Management Committee
+  > Student President of [Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/) Emergency Management Committee
 
   👨‍💼 [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2023.12.22. ~ 2024.12.21.)
   > Senator of [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/)  
   > Senate President of [College of Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)  
-  > Student Representative of [Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)
+  > Student President of [Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)
 
   👨‍💼 [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2022.12.23. ~ 2023.12.21.)
   > Director of Facilities Management
@@ -36,7 +44,7 @@
   
   👨‍💼 [Soongsil University](https://ssu.ac.kr/) [Student Council](http://stu.ssu.ac.kr/) (2021.11.27. ~ 2022.12.02.)
   > College Senator of [College of Information Technology](https://ssu.ac.kr/교육-·-연구/대학소개/it대학/)  
-  > Student Representative of [AI Convergence](https://aix.ssu.ac.kr/main)
+  > Student President of [AI Convergence](https://aix.ssu.ac.kr/main)
   
   👨‍💼 [Ilsan Daejin High School](https://isdj.hs.kr/) (2019.08.24. ~ 2021.02.28.)
   > 3-7 Class President
