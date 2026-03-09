@@ -6,7 +6,7 @@
   👨‍💻 **[Maum.AI](https://maum.ai/) (2026.03.04. ~ Present)**
   > **Isaac SIM Engineer**
   
-  👨‍💻 [Seoul National University](https://snu.ac.kr/) [Computer Architecture & Parallel Processing Lab](http://capp.snu.ac.kr/) (2025.02.21. ~ Present)
+  👨‍💻 [Seoul National University](https://snu.ac.kr/) [Computer Architecture & Parallel Processing Lab](http://capp.snu.ac.kr/) (2025.02.21. ~ 2025.08.31)
   > Undergraduate Intern
 
   👨‍💻 [Soongsil University](https://ssu.ac.kr/) of [Next Generation Semiconductor Innovation Sharing University](https://disu.ac.kr) (2022.11.14. ~ 2023.10.30.)
